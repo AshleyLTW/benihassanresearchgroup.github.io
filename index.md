@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to Beni Hassan @ Macquarie
 
-You can use the [editor on GitHub](https://github.com/BeniHassanResearchGroup/BeniHassanResearchGroup.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A resource for the Macquarie University Beni Hassan Project: Measuring Meaning in Egyptian Art - A New Approach to an Intractable Problem, supported by the Australian Research Council Discovery Project Scheme. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![East Wall of the Tomb of Khnumhotep II at Beni Hassan. Photo (C) Macquarie University.](images/home/Kanawati-Evans-BH1-Pl-61-Beni-Hassan-3-Khnumhotep-II-Chapel-Scene-East-wall-Wall10pct.png)
 
-### Markdown
+This website aims to provide general resources, a selection of photographs, updates on fieldwork and a list of publications relating to the Macquarie University expedition working and researching the upper cemetery at Beni Hassan (2009-present). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Macquarie University Beni Hassan Project is supported by an Australian Research Council Discovery Project grant from 2016--2018, and is a collaboration between Macquarie University and the Metropolitan Museum of Art, New York.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeniHassanResearchGroup/BeniHassanResearchGroup.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div>
+	<span>
+		<img src="images/home/MQ_MAS_HOR_RGB_POS.png"/>
+	</span>
+	<span>
+		<img src="images/home/arc.png"/>
+	</span>
+</div>
