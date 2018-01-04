@@ -44,21 +44,11 @@ The tombs of Beni Hassan
   layout="responsive"
   sandbox="allow-scripts allow-same-origin allow-popups"
   frameborder="0"
-
-  src="https://www.google.com/maps/embed/v1/view/?key=AIzaSyAuxVJgYMjKxcqS4L7IdUAJrCH4zH4R6SY&center=27.929801,30.874512 &zoom=18&maptype=satellite">
+  
+  src="https://www.google.com/maps/embed/v1/view?key=AIzaSyAuxVJgYMjKxcqS4L7IdUAJrCH4zH4R6SY&center=27.929801,30.874512 &zoom=18&maptype=satellite">
 </amp-iframe>
 
-<amp-iframe width="600"
-  title="Google map pin on Googleplex, Mountain View CA"
-  height="400"
-  layout="responsive"
-  sandbox="allow-scripts allow-same-origin allow-popups"
-  frameborder="0"
-  src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ2eUgeAK6j4ARbn5u_wAGqWA&key=AIzaSyCNCZ0Twm_HFRaZ5i-FuPDYs3rLwm4_848">
-</amp-iframe>
-
-
-
+# The Site
 
 Beni Hassan is situated on the east bank of the Nile, approximately 250km south of Cairo and falls within the ancient boundaries of the 16th province or nome of Upper Egypt, which inscriptions refer to as the Oryx-nome. With excellent rock formation, the region possesses some of the best limestone in the country after Tura, the quarry that serviced the Memphite cemeteries to the north. The tombs at Beni Hassan, dating to the 6th-12th Dynasties spanning from the late Old Kingdom, First Intermediate Period and into the Middle Kingdom, are cut in two ridges half-way up the mountain and command an impressive view across the escarpment and the river Nile. The upper cemetery houses the tombs of the nobles of the region, while the lower cemetery consists of a series of shaft and pit tombs at the base of the cliffs and contains the tombs of officials serving those buried in the upper cemetery. Speos Artemidos, a rock-cut shrine originally dedicated to the local lion-headed goddess Pakhet, built by Queen Hatshepsut and Thutmose III of the 18th Dynasty, lies 1.5km south in an ancient quarry, with a smaller shrine of Alexander II nearby.
 
