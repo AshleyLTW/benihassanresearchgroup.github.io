@@ -1,39 +1,10 @@
 ---
-layout: default
+layout: post
 title: Resources
 permalink: /resources/
+cover: /assets/images/Kanawati-Evans-BH1-Pl-19b-Beni-Hassan-3-Khnumhotep-II-Chapel-Scene-West-wall-Right-Lower-section-Wall1920x.jpg
 ---
 
-
-
-<figure class="ampstart-image-fullpage-hero m0 relative mb4">
-<amp-img width="404" height="720" alt="Cover" layout="responsive" src="/assets/images/Kanawati-Evans-BH1-Pl-19b-Beni-Hassan-3-Khnumhotep-II-Chapel-Scene-West-wall-Right-Lower-section-Wall1920x.jpg" media="(max-width: 415px)" alt="Fruit picking, The Tomb of Khnumhotep II (Tomb 3) at Beni Hassan."></amp-img>
-<amp-img height="720" alt="Cover" layout="fixed-height" src="/assets/images/Kanawati-Evans-BH1-Pl-19b-Beni-Hassan-3-Khnumhotep-II-Chapel-Scene-West-wall-Right-Lower-section-Wall1920x.jpg" media="(min-width: 416px)"></amp-img>
-<figcaption class="absolute top-0 right-0 bottom-0 left-0">
-<header class="p3">
-<h1 class="ampstart-fullpage-hero-heading mb0 hanuman">
-<span class="ampstart-fullpage-hero-heading-text title">
-Resources
-</span>
-</h1>
-</header>
-
-<footer class="absolute left-0 right-0 bottom-0">
-<a style="color: #ffffff; " class="ampstart-read py3 caps line-height-2 text-decoration-none center block h5" href="#content"><span class="ampstart-readmore-text px1">Read more</span></a>
-</footer>
-
-<footer class="absolute left-0 right-0 bottom-0">
-<span class="right">
-Fruit picking, The Tomb of Khnumhotep II (Tomb 3) at Beni Hassan.
-</span>
-</footer>
-<!-- 
-<footer class="absolute left-0 right-0 bottom-0">
-<a class="ampstart-read py3 caps line-height-2 text-decoration-none center block h5" href="#content"><span class="ampstart-readmore-text px1">Read more</span></a>
-</footer>
- -->
-</figcaption>
-</figure>
 
 
 <!-- <amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img> -->
