@@ -2,22 +2,22 @@
   url: /
 
 - title: Site
-  url: site/
+  url: /site/
 
 - title: Project
-  url: project/
+  url: /project/
 
 - title: Project Team
-  url: team/
+  url: /team/
 
 - title: Photo Gallery
-  url: gallery/
+  url: /gallery/
 
 - title: Publications
-  url: publications/
+  url: /publications/
 
 - title: Resources
-  url: resources/        
+  url: /resources/        
 
 - title: Macquarie University
   url: https://mq.edu.au/about
