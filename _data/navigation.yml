@@ -4,19 +4,19 @@
   url: site/
 
 - title: Project
-  url: 
+  url: project/
 
 - title: Project Team
-  url: 
+  url: team/
 
 - title: Photo Gallery
-  url: 
+  url: gallery/
 
 - title: Publications
-  url: 
+  url: publications/
 
-- title: Resource
-  url:         
+- title: Resources
+  url: resources/        
 
 - title: Macquarie University
-  url: https://mq.edu.about
+  url: https://mq.edu.au/about
