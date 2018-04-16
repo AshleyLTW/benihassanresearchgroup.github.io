@@ -24,7 +24,10 @@ Amenemhat held the titles of 'hereditary prince', 'count', 'sole companion', 'gr
 
 Khnumhotep II owns one of the best preserved and most elaborately decorated tombs at Beni Hassan. Despite his noble ancestry, Khnumhotep II is the only official among the four selected tomb owners who did not hold the office of 'great overlord of the Oryx-nome'. Khnumhotep II held the titles of 'hereditary prince', 'count', 'count of the town of Menat-Khufu' (an important local settlement near Beni Hassan), 'overseer of the Eastern Desert', 'overseer of priests' as well as priesthoods in a number of temples dedicated to deities such as Horus, Anubis and the lioness goddess Pakhet.
 
-* [General view of the cemetery of Beni Hassan from the lower escarpment](/gallery/General-view-of-the-cemetery-of-Beni-Hassan-from-the-lower-escarpment/)
+* [Chapel's entrance lintel and jambs, a feature from the tomb of Khnumhotep II at Beni Hassan](/gallery/02a/)
+* [Autobiography of Khnumhotep II on the east wall, lines 1-13, from the tomb of Khnumhotep II at Beni Hassan](/gallery/07a/)
+* [Four men in a procession of foreigners, a detail from the tomb of Khnumhotep II at Beni Hassan](/gallery/42a/)
+* [Scroll announcing the arrival of Asiatic procession, a detail from the tomb of Khnumhotep II at Beni Hassan](/gallery/43a/)
 
 # The tomb of Baqet III (Tomb 15)
 
