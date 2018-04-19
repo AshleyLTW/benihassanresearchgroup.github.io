@@ -56,7 +56,7 @@ The below provides an overview of the team's research outputs (published, in pre
 
 * Evans, L. and Mourad, A.-L., "DStretch® and digital epigraphy: Case studies from Beni Hassan", *Journal of Archaeological Science*: Reports -- accepted 1/12/17.
 * Woods, A., "Measuring Regional Artistic Diversity in the Egyptian Nile Valley during Dynasties 6-13: Problems and Priorities". *Festschrift*. Submitted 19/12/2017.
-* Woods, A., "Decoding Ancient Egyptian Art - Re-visiting the Desert Hunt Scene in the Tomb of Khnumhotep II at Beni Hassan", *Bulletin of the Australian Centre for Egyptology*. Submitted 19/12/2017.
+* Woods, A., "Drawing the Bow: A Re-examination of the Desert Hunt Scene in the Tomb of Khnumhotep II at Beni Hassan", *Bulletin of the Australian Centre for Egyptology* 26 (2016-2017).
 
 ## Conference Papers
 
@@ -67,6 +67,7 @@ The below provides an overview of the team's research outputs (published, in pre
 
 ## Public Lectures
 
+* Woods, A., "Drawing the Bow: A Re-examination of the Desert Hunt Scene in the Tomb of Khnumhotep II at Beni Hassan",  *The Australian Centre for Egyptology Annual Mini Conference, Macquarie University*. 25 March 2018.
 * Woods, A., "Archaism and Innovation: Understanding the transmission of artistic models at Beni Hassan". *The Australian Centre for Egyptology Annual Mini Conference, Macquarie University*. 26 July 2014.
 * Woods, A., "The Tomb of Khnumhotep II at Beni Hassan: A new Investigation', *The Australian Centre for Egyptology Annual Mini Conference, Macquarie University*. 3 April 2011.
 * Woods, A., "'The Middle Kingdom Tombs at Beni Hassan', *Egyptological Seminar of New York, Metropolitan Museum of Art, New York*. 17 December 2010.
