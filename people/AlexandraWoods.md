@@ -20,7 +20,7 @@ Alex's research focuses on the study of visual culture in ancient Egyptian templ
 1. artisan practices behind the portrayals to understand how the images were constructed and created within the limitations imposed by function, artistic decorum and tradition and;
 1. visual culture as evidence for social practices, particularly social identity of minority groups in ancient Egypt.
 
-For a complete list of publications visit Alex's profile on the Macquarie [University Research Portal] (https://researchers.mq.edu.au/en/persons/alex-woods) and [Academia.edu] (https://mq.academia.edu/AlexandraWoods)
+For a complete list of publications visit Alex's profile on the Macquarie [University Research Portal](https://researchers.mq.edu.au/en/persons/alex-woods) and [Academia.edu](https://mq.academia.edu/AlexandraWoods)
 
 
 
