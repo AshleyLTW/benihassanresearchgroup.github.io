@@ -605,11 +605,12 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
   }
 
   .author-thumb-post {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     float: left;
     margin-right: 9px;
-    border-radius: 100%;
+    border-radius: 10%;
+    border: solid 1px black;
   }
 
   .post-date {
