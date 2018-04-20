@@ -41,39 +41,40 @@ Hunting in the desert, The Tomb of Khnumhotep II (Tomb 3) at Beni Hassan.
 <main id="content" role="main" class="content">
 
 
-The team for the project is based at Macquarie University, Sydney, and the Metropolitan Museum of Art, New York.
+The Beni Hassan @ Macquarie Project team, based at Macquarie University, Sydney, and the Metropolitan Museum of Art, New York, is comprised of a student centred research group and academic staff.
 
-## Beni Hassan Research Group members
+## Beni Hassan Research Group
 
 The research group, comprised of academic staff, doctoral candidates and undergraduate students, aims to develop employability skills in Ancient History students and enable active, authentic and collaborative engagement with research undertaken at Macquarie University.
 
 The Beni Hassan Research Group (BHRG) meets regularly to work on aspects of the project and is comprised of the following members:
 
+Co-ordinators:
 * [Alexandra Woods \| Academic Lead](/team/AlexandraWoods)
 * [Brian Ballsun-Stanton \| Data Architect](/team/BrianBallsunStanton)
 * [Nicolle Leary \| Project manager](/team/NicolleLeary)
 
-
+Student members:
 * [Kirstyn Baker](/team/KirstynBaker)
 * [Penelope Blake](/team/PenelopeBlake)
 * [Dominique Brown](/team/DominiqueBrown)
 * [Carly Blair](/team/CarlyBlair)
 * [Shannon Collis](/team/ShannonCollis)
-* [Alyssa De](/team/AlyssaDeLuna)
+* [Alyssa De Luna](/team/AlyssaDeLuna)
 * [Madeline Jenkins](/team/MadelineJenkins)
 * [Kate Keeble](/team/KateKeeble)
 * [Hannah Vogel](/team/HannahVogel)
 
-## Australian Research Council Discovery Project Investigators
+## Australian Research Council Discovery Project
 The Beni Hassan @ Macquarie Project is supported by an Australian Research Council Discovery Project grant from 2016-2018, and is a collaboration between Macquarie University and the Metropolitan Museum of Art, New York.
 
-This project aims to produce new insights into the meaning of Eqyptian tomb art. Tomb paintings are a primary source of information about ancient Egyptian life, but what was the original purpose of this art? Previous hypotheses have proposed a range of personal, social or religious functions, but the question remains unresolved. The project aims to break through this impasse by testing the validity of the most comprehensive theory to date via an innovative visual and statistical analysis of wall paintings at the Middle Kingdom site of Beni Hassan. The results are expected to bring greater clarity to our understanding of Egyptian art, and so allow an objective evaluation of its use as a historical document. For more details, visit the [Australian Research Council website: Discovery Project DP160102223.](http://purl.org/au-research/grants/arc/DP160102223)
+[Australian Research Council website: Discovery Project DP160102223.](http://purl.org/au-research/grants/arc/DP160102223)
 
 The Chief and Partner Investigators are:
 
-* [Naguib Kanawati - Macquarie University](/team/NaguibKanawati)
-* [Linda Evans - Macquarie University](/team/LindaEvans)
-* [Alexandra Woods - Macquarie University](/team/AlexandraWoods)
-* [Janice Kamrin](/team/JaniceKamrin)
+* [Naguib Kanawati \| Macquarie University](/team/NaguibKanawati)
+* [Linda Evans \| Macquarie University](/team/LindaEvans)
+* [Alexandra Woods \| Macquarie University](/team/AlexandraWoods)
+* [Janice Kamrin \| Metropolitam Museum of Art, New York](/team/JaniceKamrin)
 
 </main>
