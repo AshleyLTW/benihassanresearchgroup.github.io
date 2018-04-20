@@ -7,7 +7,7 @@ permalink: /site/
 
 
 <figure class="ampstart-image-fullpage-hero m0 relative mb4">
-<amp-img width="404" height="720" alt="Cover" layout="responsive" src="/assets/images/Kanawati-Woods-BH-Fig-02-Beni-Hassan-3-Khnumhotep-II-General-view-cemetery.JPG" media="(max-width: 415px)"></amp-img>
+<amp-img width="404" height="720" alt="Cover" layout="responsive" src="/assets/images/Kanawati-Woods-BH-Fig-03-Beni-Hassan-3-Khnumhotep-II-escarpment-view.JPG" media="(max-width: 415px)"></amp-img>
 <amp-img height="720" alt="Cover" layout="fixed-height" src="/assets/images/Kanawati-Woods-BH-Fig-03-Beni-Hassan-3-Khnumhotep-II-escarpment-view.JPG" media="(min-width: 416px)"></amp-img>
 <figcaption class="absolute top-0 right-0 bottom-0 left-0">
 <header class="p3">
