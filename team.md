@@ -23,7 +23,7 @@ Project Team</span>
 <footer class="absolute left-0 right-0 bottom-0">
 <a style="color: #ffffff; " class="ampstart-read py3 caps line-height-2 text-decoration-none center block h5" href="#content"><span class="ampstart-readmore-text px1">Read more</span></a>
 </footer>
-<!-- 
+<!--
 <footer class="absolute left-0 right-0 bottom-0">
 <a class="ampstart-read py3 caps line-height-2 text-decoration-none center block h5" href="#content"><span class="ampstart-readmore-text px1">Read more</span></a>
 </footer>
@@ -43,38 +43,37 @@ Hunting in the desert, The Tomb of Khnumhotep II (Tomb 3) at Beni Hassan.
 
 The team for the project is based at Macquarie University, Sydney, and the Metropolitan Museum of Art, New York.
 
-## Australian Research Council Discovery Project Investigators
-
-* [Naguib Kanawati](/team/NaguibKanawati)
-* [Linda Evans](/team/LindaEvans)
-* [Alexandra Woods](/team/AlexandraWoods)
-* [Janice Kamrin](/team/JaniceKamrin)
-
-## Research students
-
-The following students are current Doctoral candidates in the Department of Ancient History and drawn heavily on the recent recordings of the tombs at Beni Hassan. 
-
-* [Lydia Bashford](/team/LydiaBashford)
-* [Nicolle Leary](/team/NicolleLeary) 
-* [Aimee Paul](/team/AimeePaul) 
-* [Robert Parker](/team/RobertParker)
-
 ## Beni Hassan Research Group members
 
 The research group, comprised of academic staff, doctoral candidates and undergraduate students, aims to develop employability skills in Ancient History students and enable active, authentic and collaborative engagement with research undertaken at Macquarie University.
 
+The Beni Hassan Research Group (BHRG) meets regularly to work on aspects of the project and is comprised of the following members:
+
 * [Alexandra Woods \| Academic Lead](/team/AlexandraWoods)
-* [Brian Ballsun-Stanton \| Data Architect](/team/BrianBallsunStanton) 
-* [Nicolle Leary \| Project manager](/team/NicolleLeary) 
+* [Brian Ballsun-Stanton \| Data Architect](/team/BrianBallsunStanton)
+* [Nicolle Leary \| Project manager](/team/NicolleLeary)
+
+
 * [Kirstyn Baker](/team/KirstynBaker)
 * [Penelope Blake](/team/PenelopeBlake)
 * [Dominique Brown](/team/DominiqueBrown)
 * [Carly Blair](/team/CarlyBlair)
 * [Shannon Collis](/team/ShannonCollis)
-* [Alyssa De](/team/AlyssaDeLuna) 
+* [Alyssa De](/team/AlyssaDeLuna)
 * [Madeline Jenkins](/team/MadelineJenkins)
 * [Kate Keeble](/team/KateKeeble)
 * [Hannah Vogel](/team/HannahVogel)
 
+## Australian Research Council Discovery Project Investigators
+The Beni Hassan @ Macquarie Project is supported by an Australian Research Council Discovery Project grant from 2016-2018, and is a collaboration between Macquarie University and the Metropolitan Museum of Art, New York.
+
+This project aims to produce new insights into the meaning of Eqyptian tomb art. Tomb paintings are a primary source of information about ancient Egyptian life, but what was the original purpose of this art? Previous hypotheses have proposed a range of personal, social or religious functions, but the question remains unresolved. The project aims to break through this impasse by testing the validity of the most comprehensive theory to date via an innovative visual and statistical analysis of wall paintings at the Middle Kingdom site of Beni Hassan. The results are expected to bring greater clarity to our understanding of Egyptian art, and so allow an objective evaluation of its use as a historical document. For more details, visit the [Australian Research Council website: Discovery Project DP160102223.](http://purl.org/au-research/grants/arc/DP160102223)
+
+The Chief and Partner Investigators are:
+
+* [Naguib Kanawati - Macquarie University](/team/NaguibKanawati)
+* [Linda Evans - Macquarie University](/team/LindaEvans)
+* [Alexandra Woods - Macquarie University](/team/AlexandraWoods)
+* [Janice Kamrin](/team/JaniceKamrin)
 
 </main>
