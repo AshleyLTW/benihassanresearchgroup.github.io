@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Gallery
+title: The Beni Hassan Visual Dictionary
 permalink: /gallery/
 
 ---
@@ -10,11 +10,11 @@ permalink: /gallery/
 
 <main id="content" role="main" class="content">
 
-This gallery includes a selection of photographs, architectural plans and line drawings obtained by Macquarie University during recent fieldwork seasons at Beni Hassan. 
+The a visual dictionary for all inscribed tombs at Beni Hassan, which draws on published and unpublished material collected by the Macquarie University expedition working at Beni Hassan (2009-present). The *Beni Hassan Visual Dictionary* contains accessible descriptions of the various themes, scenes, details and architectural features in a tomb, Jsesh transcriptions, transliteration, and translation of the hieroglyphic inscriptions, in addition to high resolution zoomable photographs and line drawings.
 
 # Beni Hassan: Site overview
 
-Beni Hassan is situated on the east bank of the Nile, approximately 250km south of Cairo and falls within the ancient boundaries of the 16th province or nome of Upper Egypt, which inscriptions refer to as the Oryx-nome. With excellent rock formation, the region possesses some of the best limestone in the country after Tura, the quarry that serviced the Memphite cemeteries to the north. The tombs at Beni Hassan, dating to the 6th-12th Dynasties spanning from the late Old Kingdom, First Intermediate Period and into the Middle Kingdom, are cut in two ridges half-way up the mountain and command an impressive view across the escarpment and the river Nile. 
+Beni Hassan is situated on the east bank of the Nile, approximately 250km south of Cairo and falls within the ancient boundaries of the 16th province or nome of Upper Egypt, which inscriptions refer to as the Oryx-nome. With excellent rock formation, the region possesses some of the best limestone in the country after Tura, the quarry that serviced the Memphite cemeteries to the north. The tombs at Beni Hassan, dating to the 6th-12th Dynasties spanning from the late Old Kingdom, First Intermediate Period and into the Middle Kingdom, are cut in two ridges half-way up the mountain and command an impressive view across the escarpment and the river Nile.
 
 # The tomb of Amenemhat  (Tomb 2)
 
@@ -24,10 +24,27 @@ Amenemhat held the titles of 'hereditary prince', 'count', 'sole companion', 'gr
 
 Khnumhotep II owns one of the best preserved and most elaborately decorated tombs at Beni Hassan. Despite his noble ancestry, Khnumhotep II is the only official among the four selected tomb owners who did not hold the office of 'great overlord of the Oryx-nome'. Khnumhotep II held the titles of 'hereditary prince', 'count', 'count of the town of Menat-Khufu' (an important local settlement near Beni Hassan), 'overseer of the Eastern Desert', 'overseer of priests' as well as priesthoods in a number of temples dedicated to deities such as Horus, Anubis and the lioness goddess Pakhet.
 
-* [Chapel's entrance lintel and jambs, a feature from the tomb of Khnumhotep II at Beni Hassan](/gallery/02a/)
-* [Autobiography of Khnumhotep II on the east wall, lines 1-13, from the tomb of Khnumhotep II at Beni Hassan](/gallery/07a/)
-* [Four men in a procession of foreigners, a detail from the tomb of Khnumhotep II at Beni Hassan](/gallery/42a/)
-* [Scroll announcing the arrival of Asiatic procession, a detail from the tomb of Khnumhotep II at Beni Hassan](/gallery/43a/)
+
+Chapel
+East wall
+* [(Auto)biography of Khnumhotep II on the east wall, lines 1-13](/gallery/07a/)
+* [A procession of foreigners](/gallery/42a/)
+* [Scroll recording the arrival of a group of foreigners](/gallery/43a/)
+Shrine
+
+<amp-accordion>
+<section>
+<h2>Portico</h2>
+
+* [Chapel's entrance lintel and jambs](/gallery/02a/)
+</section>
+
+<section>
+<h2>Details</h2>
+<div>
+</div>
+</section>
+</amp-accordion>
 
 # The tomb of Baqet III (Tomb 15)
 
