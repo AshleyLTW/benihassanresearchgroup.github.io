@@ -20,16 +20,11 @@ Beni Hassan is situated on the east bank of the Nile, approximately 250km south 
 
 Khnumhotep II owns one of the best preserved and most elaborately decorated tombs at Beni Hassan. Despite his noble ancestry, Khnumhotep II is the only official among the four selected tomb owners who did not hold the office of 'great overlord of the Oryx-nome'. Khnumhotep II held the titles of 'hereditary prince', 'count', 'count of the town of Menat-Khufu' (an important local settlement near Beni Hassan), 'overseer of the Eastern Desert', 'overseer of priests' as well as priesthoods in a number of temples dedicated to deities such as Horus, Anubis and the lioness goddess Pakhet.
 
-
-
-East wall
-*
-
 <amp-accordion>
 <section>
-	<h2>Portico</h2>
-	<div>
-		<ul>
+<h2>Portico</h2>
+<div>
+<ul>
 			<li><a href="/gallery/02a/">Entrance lintel and jambs</a></li>
 		</ul>
 	</div>
@@ -40,7 +35,7 @@ East wall
 	<h2>Chapel</h2>
 	<div>
 		<ul>North Wall
-			<li>[A procession of foreigners](/gallery/42a/)<li>
+			<li><a href="/gallery/42a/">A procession of foreigners</a><li>
       <li>[Scroll recording the arrival of a group of foreigners](/gallery/43a/)</li>
 		</ul>
 		ul>East Wall
