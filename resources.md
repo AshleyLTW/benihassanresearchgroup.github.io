@@ -35,7 +35,7 @@ cover: /assets/images/Kanawati-Evans-BH1-Pl-19b-Beni-Hassan-3-Khnumhotep-II-Chap
 
 ## Specialised works
 
--   Bailleul-LeSuer, R. and Wyatt, J., "19^th^ century epigraphers as key to the identification of Baqet III's birds at Beni Hassan". In: Betrò, M., & Miniaci, G., (eds), *Talking along the Nile: Ippolito Rosellini, travellers and scholars of the 19th century in Egypt: Proceedings of the International Conference held on the occasion of the presentation of Progetto Rosellini. Pisa, June 14-16, 2012* (Pisa, 2013), 19--34.
+-   Bailleul-LeSuer, R. and Wyatt, J., "19th century epigraphers as key to the identification of Baqet III's birds at Beni Hassan". In: Betrò, M., & Miniaci, G., (eds), *Talking along the Nile: Ippolito Rosellini, travellers and scholars of the 19th century in Egypt: Proceedings of the International Conference held on the occasion of the presentation of Progetto Rosellini. Pisa, June 14-16, 2012* (Pisa, 2013), 19--34.
 
 -   Bucking, S., "The Beni Hassan in Late Antiquity Project: Report on the 2014 Season", *Journal of Eastern Mediterranean Archaeology and Heritage Studies* 5 \[2\] (2017), 148-177.
 
@@ -67,9 +67,9 @@ There are a range of projects being currently undertaken in various institutions
 
 -   [The Beni Hassan in Late Antiquity Project](https://www.benihassan.org/) (2009-present), based at the University of De Paul, aims to systematically document the architectural and epigraphic evidence for late antique monasticism (ca. 500 CE) at Beni Hassan. Evidence derives from the monks' adaptive reuse of Pharaonic tomb, temple, and quarry spaces in the project's concession area, bounded on the north by the Beni Hassan necropolis and on the south by the wadi known as the Batn al-Baqara to understand regional patterns of monastic settlement in Byzantine Egypt.
 
--   [The Dayr al-Barsha Project](http://drupal.arts.kuleuven.be/barsha) (2002-present) is an international and interdisciplinary research endeavor directed by the Egyptology department at Leuven University, Belgium. 
+-   [The Dayr al-Barsha Project](http://drupal.arts.kuleuven.be/barsha) (2002-present) is an international and interdisciplinary research endeavor directed by the Egyptology department at Leuven University, Belgium.
 
--   ['Artefacts of Excavation'](http://egyptartefacts.griffith.ox.ac.uk/node/1068) is a 3-year, AHRC-funded collaborative project, which aims to create an online resource for the relocation and re-contextualization of distributed artefacts from excavation. The project will explore the role of these distributions in the development of archaeology and museology. 
+-   ['Artefacts of Excavation'](http://egyptartefacts.griffith.ox.ac.uk/node/1068) is a 3-year, AHRC-funded collaborative project, which aims to create an online resource for the relocation and re-contextualization of distributed artefacts from excavation. The project will explore the role of these distributions in the development of archaeology and museology.
 
--   [The Griffith Institute Archive](http://www.griffith.ox.ac.uk/archive/) is a highly respected and internationally recognised resource for Egyptologists, as well as scholars across a wide range of disciplines including archaeology, architecture and the history of art and science. There are more than 160 substantial groups of material, from complete excavation records to watercolours, photographs and correspondence. 
+-   [The Griffith Institute Archive](http://www.griffith.ox.ac.uk/archive/) is a highly respected and internationally recognised resource for Egyptologists, as well as scholars across a wide range of disciplines including archaeology, architecture and the history of art and science. There are more than 160 substantial groups of material, from complete excavation records to watercolours, photographs and correspondence.
 </main>
