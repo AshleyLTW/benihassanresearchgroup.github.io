@@ -15,10 +15,10 @@ The a visual dictionary for all inscribed tombs at Beni Hassan, which draws on p
 # Beni Hassan: Site overview
 
 Beni Hassan is situated on the east bank of the Nile, approximately 250km south of Cairo and falls within the ancient boundaries of the 16th province or nome of Upper Egypt, which inscriptions refer to as the Oryx-nome. With excellent rock formation, the region possesses some of the best limestone in the country after Tura, the quarry that serviced the Memphite cemeteries to the north. The tombs at Beni Hassan, dating to the 6th-12th Dynasties spanning from the late Old Kingdom, First Intermediate Period and into the Middle Kingdom, are cut in two ridges half-way up the mountain and command an impressive view across the escarpment and the river Nile.
-
+<!-- 
 # The tomb of Amenemhat  (Tomb 2)
 
-Amenemhat held the titles of 'hereditary prince', 'count', 'sole companion', 'great overlord of the Oryx-nome', 'overseer of the great army of the Oryx-nome' and 'overseer of priests' (of Khnum, Lord of Her-wer) as well as many other religious offices. The biographical inscriptions In his tomb emphasise his military achievements under king Senwosret I, when Amenemhat II was still the crown prince. Amenemhat most probably cut and decorated his tomb before Khnumhotep II and states at the beginning of his biography that construction of his tomb took place in year 43 of the reign of king Senwosret I.
+Amenemhat held the titles of 'hereditary prince', 'count', 'sole companion', 'great overlord of the Oryx-nome', 'overseer of the great army of the Oryx-nome' and 'overseer of priests' (of Khnum, Lord of Her-wer) as well as many other religious offices. The biographical inscriptions In his tomb emphasise his military achievements under king Senwosret I, when Amenemhat II was still the crown prince. Amenemhat most probably cut and decorated his tomb before Khnumhotep II and states at the beginning of his biography that construction of his tomb took place in year 43 of the reign of king Senwosret I. -->
 
 # The tomb of Khnumhotep II (Tomb 3)
 
@@ -34,18 +34,16 @@ Shrine
 
 <amp-accordion>
 <section>
-<h2>Portico</h2>
-
-* [Chapel's entrance lintel and jambs](/gallery/02a/)
+	<h2>Portico</h2>
+	<div>
+		<ul>
+			<li><a href="/gallery/02a/">Chapel's entrance lintel and jambs</a></li>
+		</ul>
+	</div>
 </section>
 
-<section>
-<h2>Details</h2>
-<div>
-</div>
-</section>
 </amp-accordion>
-
+<!-- 
 # The tomb of Baqet III (Tomb 15)
 
 The tomb is one of the largest on the cliff and Baqet III held the titles of 'count', 'sole companion', and 'great overlord of the entire Oryx-nome'. Whether Baqet III was related to the earlier officials of the same name, Baqet I (Tomb No. 29) or Baqet II (Tomb No. 33) is not clear, however it seems he succeeded his father, Ramushenti (Tomb No. 27), at Beni Hassan in the office of 'great overlord of the entire Oryx-nome'. An inscription in the tomb of Khety (Tomb No. 17) names Baqet as his father and given the close proximity of the two tombs, it seems likely that Baqet III was the father of Khety.
@@ -53,6 +51,6 @@ The tomb is one of the largest on the cliff and Baqet III held the titles of 'co
 # The tomb of Khety (Tomb 17)
 
 The tomb of Khety is in close proximity to that of Baqet III (Tomb No. 15) and the two tombs share many architectural and artistic similarities. With Khety's father named Baqet, it is likely that our tomb owner was the son of Baqet III. Khety held the offices of 'count', 'sole companion', 'true acquaintance of the king', 'overseer of the army in all difficult places', and 'great overlord of the entire Oryx-nome'.
-
+ -->
 
 </main>
