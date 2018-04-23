@@ -36,14 +36,14 @@ Khnumhotep II served during the reign of pharaohs Amenemhat II and Senwosret II 
       <ul>
         <li>North Wall</li>
         <ul>
-          <li><a href="/gallery/42a/">A procession of foreigners</a><li>
+          <li><a href="/gallery/42a/">A procession of foreigners</a></li>
           <li><a href="/gallery/43a/">Scroll recording the arrival of a group of foreigners</a></li>
         </ul>
       </ul>
       <ul>
         <li>East Wall</li>
         <ul>
-          <li><a href="/gallery/07a/">(Auto)biography of Khnumhotep II | Lines 1-13</a><li>
+          <li><a href="/gallery/07a/">(Auto)biography of Khnumhotep II | Lines 1-13</a></li>
         </ul>
       </ul>
     </div>
