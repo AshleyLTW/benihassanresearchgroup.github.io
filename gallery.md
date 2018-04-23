@@ -25,26 +25,27 @@ Khnumhotep II owns one of the best preserved and most elaborately decorated tomb
 <h2>Portico</h2>
 <div>
 <ul>
-			<li><a href="/gallery/02a/">Entrance lintel and jambs</a></li>
-		</ul>
-	</div>
+<li><a href="/gallery/02a/">Entrance lintel and jambs</a></li>
+</ul>
+</div>
 </section>
 
 <amp-accordion>
 <section>
-	<h2>Chapel</h2>
-	<div>
-		<ul>North Wall
-			<li><a href="/gallery/42a/">A procession of foreigners</a><li>
-      <li>[Scroll recording the arrival of a group of foreigners](/gallery/43a/)</li>
-		</ul>
-		ul>East Wall
-			<li>[(Auto)biography of Khnumhotep II | Lines 1-13](/gallery/07a/)<li>
-		</ul>
-	</div>
+<h2>Chapel</h2>
+<div>
+<ul>
+<li>North Wall<li>
+<li><a href="/gallery/42a/">A procession of foreigners</a><li>
+<li><a href="/gallery/43a/">Scroll recording the arrival of a group of foreigners</a></li>
+</ul>
+<ul>
+<li>East Wall<li>
+<li>[(Auto)biography of Khnumhotep II | Lines 1-13](/gallery/07a/)<li>
+</ul>
+</div>
 </section>
 
-</amp-accordion>
 
 
 </main>
