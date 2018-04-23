@@ -18,7 +18,7 @@ Beni Hassan is situated on the east bank of the Nile, approximately 250km south 
 
 # The tomb of Khnumhotep II (Tomb 3)
 
-Khnumhotep II owns one of the best preserved and most elaborately decorated tombs at Beni Hassan. Despite his noble ancestry, Khnumhotep II is the only official among the four selected tomb owners who did not hold the office of 'great overlord of the Oryx-nome'. Khnumhotep II held the titles of 'hereditary prince', 'count', 'count of the town of Menat-Khufu' (an important local settlement near Beni Hassan), 'overseer of the Eastern Desert', 'overseer of priests' as well as priesthoods in a number of temples dedicated to deities such as Horus, Anubis and the lioness goddess Pakhet.
+The tomb is one of the best preserved and most elaborately decorated tombs at Beni Hassan. Khnumhotep II is the only official who did not hold the office of 'great overlord of the Oryx-nome'. Khnumhotep II held the titles of 'hereditary prince', 'count', 'count of the town of Menat-Khufu' (an important local settlement near Beni Hassan), 'overseer of the Eastern Desert', 'overseer of priests' as well as priesthoods in a number of temples dedicated to deities such as Horus, Anubis and the lioness goddess Pakhet.
 
 <amp-accordion>
 <section>
@@ -35,13 +35,13 @@ Khnumhotep II owns one of the best preserved and most elaborately decorated tomb
 <h2>Chapel</h2>
 <div>
 <ul>
-<li>North Wall<li>
-<li><a href="/gallery/42a/">A procession of foreigners</a><li>
+<li>North Wall</li>
+<ul><a href="/gallery/42a/">A procession of foreigners</a><ul>
 <li><a href="/gallery/43a/">Scroll recording the arrival of a group of foreigners</a></li>
 </ul>
 <ul>
-<li>East Wall<li>
-<li>[(Auto)biography of Khnumhotep II | Lines 1-13](/gallery/07a/)<li>
+<li>East Wall</li>
+<li><a href="/gallery/07a/">(Auto)biography of Khnumhotep II | Lines 1-13</a><li>
 </ul>
 </div>
 </section>
