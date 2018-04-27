@@ -1,6 +1,11 @@
 --- 
 layout: default 
 ---
+{% assign colcount = 1 %}
+{% if page.plateLocation %}{% capture colcount %}{{ colcount | plus:1 }}{% endcapture %}{%endif%}
+{% if page.lineartLocation %}{% capture colcount%}{{  colcount | plus:1 }}{% endcapture %} {%endif%}
+{% if page.hiero %} {% capture colcount%}{{ colcount | plus:1 }}{% endcapture %} {%endif%}
+{% capture cols %}md-col-{{ 12 | divided_by: colcount }}{%endcapture%}
 <amp-selector on="select:AMP.setState({selectedTab: event.targetOption})" [selected]="selectedTab" role="tablist" layout="container" class="ampstart-image-fullpage-contain ">
     <div role="tab" class="tabButton" selected option="photo">&nbsp;</div>
     <div role="tabpanel" class="tabContent">
@@ -8,55 +13,68 @@ layout: default
             <amp-img placeholder height="720" alt="{{ page.title }}" layout="fill" src="{{ site.url }}/{{ page.cover }}"></amp-img>
         </amp-iframe>
     </div>
+    {% if page.lineartLocation %}
     <div role="tab" class="tabButton" option="lineart">&nbsp;</div>
     <div role="tabpanel" class="tabContent">
         <amp-iframe id="lineart" sandbox="allow-scripts allow-presentation allow-popups  allow-modals" allowfullscreen layout="fill" frameborder="0" src="{{page.lineartLocation}}">
             <amp-img placeholder alt="{{ page.title }}" class="contain" layout="fill" src="{{ site.url }}/{{ page.cover }}"></amp-img>
         </amp-iframe>
     </div>
+    {% endif %}
+            {% if page.hiero %}
+
     <div role="tab" class="tabButton" option="hiero">&nbsp;</div>
     <div role="tabpanel" class="tabContent">
         <amp-img alt="{{ page.title }}" class="contain white pb2 pt2 pl2 pr2" layout="fill" src="/assets/images/{{page.hiero}}"></amp-img>
     </div>
+    {%endif%}
 </amp-selector>
 <amp-state id="btnBack">
     <script type="application/json">
     {
-        "photo": {
-            "photoBtn": "center col col-3 align-middle pt2 pb3 caps sand-selected",
-            "lineartBtn": "center col col-3 align-middle pt2 pb3 caps sand",
-            "hieroBtn": "center col col-3 align-middle pt2 pb3 caps sand"
-        },
-        "lineart": {
-            "photoBtn": "center col col-3 align-middle pt2 pb3 caps sand",
-            "lineartBtn": "center col col-3 align-middle pt2 pb3 caps sand-selected",
-            "hieroBtn": "center col col-3 align-middle pt2 pb3 caps sand"
-        },
-        "hiero": {
-            "photoBtn": "center col col-3 align-middle pt2 pb3 caps sand",
-            "lineartBtn": "center col col-3 align-middle pt2 pb3 caps sand",
-            "hieroBtn": "center col col-3 align-middle pt2 pb3 caps sand-selected"
-        }
-    }
+  
+  "photo": {
+    "photoBtn": "center md-col sm-col-12 {{cols}} align-middle caps sand-selected",
+    "lineartBtn": "center md-col sm-col-12 {{cols}} align-middle caps sand",
+    "hieroBtn": "center md-col sm-col-12 {{cols}} align-middle caps sand"
+  },
+  "lineart": {
+    "photoBtn": "center md-col sm-col-12 {{cols}} align-middle caps sand",
+    "lineartBtn": "center md-col sm-col-12 {{cols}} align-middle caps sand-selected",
+    "hieroBtn": "center md-col sm-col-12 {{cols}} align-middle caps sand"
+  },
+  "hiero": {
+    "photoBtn": "center md-col sm-col-12 {{cols}} align-middle caps sand",
+    "lineartBtn": "center md-col sm-col-12 {{cols}} align-middle caps sand",
+    "hieroBtn": "center md-col sm-col-12 {{cols}} align-middle caps sand-selected"
+  }
+}
     </script>
 </amp-state>
 <nav>
-    <div id="detailsBar" class="cf tabBar">
-        <div id="photoBtn" class="center col col-3 align-middle pt2 pb3 caps sand-selected" [class]="btnBack[selectedTab].photoBtn" on="tap:header-sidebar.scrollTo(),AMP.setState({selectedTab: 'photo'})">Photograph</div>
-        <div id="lineartBtn" class="center col col-3 align-middle pt2 pb3 caps sand" [class]="btnBack[selectedTab].lineartBtn" on="tap:header-sidebar.scrollTo(),AMP.setState({selectedTab: 'lineart'})">Lineart</div>
-        <div id="heiroBtn" class="center col col-3 align-middle pt2 pb3 caps sand " [class]="btnBack[selectedTab].hieroBtn" on="tap:header-sidebar.scrollTo(),AMP.setState({selectedTab: 'hiero'})">Heiroglyphs</div>
-        <div class="center col col-3 align-middle pt2 pb3 caps sand" on="tap:detailsBar.scrollTo()">Details</div>
-    </div>
+    <ul id="detailsBar" class="cf tabBar">
+        <li tabindex="0" role="button" id="photoBtn" class="center md-col sm-col-12 {{cols}} align-middle caps sand-selected" 
+        [class]="btnBack[selectedTab].photoBtn" on="tap:AMP.setState({selectedTab: 'photo'})">Photograph</li>
+        {% if page.lineartLocation %}
+        <li tabindex="1" role="button" id="lineartBtn" class="center md-col sm-col-12 {{cols}} align-middle  caps sand" 
+        [class]="btnBack[selectedTab].lineartBtn" on="tap:AMP.setState({selectedTab: 'lineart'})">Lineart</li>
+        {% endif %}
+        {% if page.hiero %}
+        <li tabindex="2" role="button" id="heiroBtn" class="center md-col  sm-col-12 {{cols}} align-middle  caps sand " 
+        [class]="btnBack[selectedTab].hieroBtn" on="tap:AMP.setState({selectedTab: 'hiero'})">Hieroglyphs</li>
+        {% endif %}
+        <li tabindex="3" role="button" class="center md-col sm-col-12 {{cols}} align-middle  caps sand" on="tap:detailsBar.scrollTo()">Details</li>
+    </ul>
 </nav>
-<main id="content" role="main" class="">
+<main id="content" role="main" class="cf">
     <article class="photo-article">
         
-        <div class="px3 mb4">
+        <div class="px3 mb4 cf">
             <h2 class="mt4 mb2">{{ page.title }}</h2>
             <div class="italic">{{page.location}}</div>
             <amp-selector role="tablist" layout="container" class="ampTabContainer">
                 <div role="tab" class="tabButton sand" selected option="a1">Description</div>
-                <div role="tabpanel" class="tabContent">{{page.description}}</div>
+                <div role="tabpanel" class="tabContent">{{page.longdescription}}</div>
                 <div role="tab" class="tabButton sand" option="b1">Details</div>
                 <div role="tabpanel" class="tabContent">
                   <dl>
@@ -91,7 +109,7 @@ layout: default
 
                   <dt>Rights</dt>
                 <dd>Recorded and published with permission from the Egyptian Ministry of Antiquities. Photographs by Effy Alexakis as part of research on site. Copyright Macquarie University 2018. All rights reserved.</dd>
-<dt>Cite this</dt> <dd>{{page.authors}} "{{page.title}}." In <span class="italic">The Beni Hassan Visual Dictionary: Khnumhotep II</span>, edited by Alexandra Woods, Brian Ballsun-Stanton, and Nicolle Leary. Sydney: Macquarie University, 2018. http://benihassan.com{{page.url}}</dd>
+<dt>Cite this</dt> <dd>{{page.authors}} "{{page.title}}." In <span class="italic">The Beni Hassan Visual Dictionary: Khnumhotep II</span>, edited by Alexandra Woods, Brian Ballsun-Stanton, and Nicolle Leary. Sydney: Macquarie University, 2018. https://benihassan.com{{page.url}}</dd>
                 </dl>
 
                   

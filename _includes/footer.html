@@ -1,50 +1,26 @@
 <footer>
-   
 </footer>
-<footer class="ampstart-footer flex flex-column items-center px3">
-
-    <ul class="ampstart-social-follow list-reset flex justify-around items-center flex-wrap">
-
- <li>
-
-
-
-
-        <a href="http://anchist.mq.edu.au">
-
-<amp-img src="/assets/images/mq-logo1.png"
-  width="162"
-  height="50"
-  alt="MQ Logo"
-  >
-  <noscript>
-    <img src="/assets/images/mq-logo1.png" width="162"
-  height="50"  />
-  </noscript>
-</amp-img></a>
-            </li>
-            <li>
-       
-        <a href="https://researchdata.ands.org.au/discovery-projects-grant-id-dp160102223/664015">
-
-<amp-img src="/assets/images/arc_inline.png"
-  width="257"
-  height="70"
-  alt="ARC Logo"
-  >
-  <noscript>
-    <img src="/assets/images/arc_inline.png"  width="257"
-  height="70"  />
-  </noscript>
-</amp-img></a>
-</li>
-</ul>
-    <ul class="ampstart-social-follow list-reset flex justify-around items-center flex-wrap m0 mb4">
-
-
-
+<footer class="ampstart-footer flex flex-column items-center ">
+    <ul class="ampstart-social-follow list-reset flex justify-around items-center flex-wrap  full nomargin">
+        <li class="col-3">
+            <amp-img src="/assets/images/bhrg.png" width="500" height="156" layout="responsive" alt="MQ Logo" >
+            </amp-img>
+        </li>
+        <li >
+            <a href="http://anchist.mq.edu.au">
+                <amp-img src="/assets/images/mq-logo1.png" width="162" height="50" alt="MQ Logo" class="ml6">
+                </amp-img>
+            </a>
+        </li>
+        <li >
+            <a href="https://researchdata.ands.org.au/discovery-projects-grant-id-dp160102223/664015">
+                <amp-img src="/assets/images/arc_inline.png" width="257" height="70" alt="ARC Logo" >
+                </amp-img>
+            </a>
+        </li>
+    </ul>
+    <ul class="ampstart-social-follow list-reset flex justify-around items-center flex-wrap m0 mb4 ">
         {% if site.twitter %}
-
         <li>
             <a href="https://twitter.com/{{site.twitter}}" target="_blank" class="inline-block p1" aria-label="Link to AMP HTML Twitter">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="22.2" viewbox="0 0 53 49">
@@ -54,7 +30,6 @@
             </a>
         </li>
         {% endif %} {% if site.facebook %}
-
         <li>
             <a href="https://facebook.com/{{site.facebook}}" target="_blank" class="inline-block p1" aria-label="Link to AMP HTML Facebook">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="23.6" viewbox="0 0 56 55">
@@ -64,7 +39,6 @@
             </a>
         </li>
         {% endif %} {% if site.github %}
-
         <li>
             <a href="https://github.com/{{site.github}}" target="_blank" class="inline-block p1" aria-label="Link to AMP HTML github">
                 <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 64 64">
@@ -73,27 +47,22 @@
             </a>
         </li>
         {% endif %}
-
     </ul>
     <nav class="ampstart-footer-nav">
         <ul class="list-reset flex flex-wrap mb3">
             {% if site.about %}
-
             <li class="px1">
                 <a class="text-decoration-none ampstart-label" href="{{site.baseurl}}{{site.about}}">About</a>
             </li>
             {% endif %} {% if site.contact %}
-
             <li class="px1">
                 <a class="text-decoration-none ampstart-label" href="{{site.baseurl}}{{site.contact}}">Contact</a>
             </li>
             {% endif %} {% if site.privacy-policy %}
-
             <li class="px1">
                 <a class="text-decoration-none ampstart-label" href="https://www.mq.edu.au/about/about-the-university/governance/privacy">Privacy Policy</a>
             </li>
             {% endif %}
-
         </ul>
     </nav>
     <small>
