@@ -2,34 +2,42 @@
 layout: default
 ---
   {% if page.cover %}
-  asdfg
-  <figure class="ampstart-image-fullpage-hero m0 relative mb4">
-    <amp-img width="404" height="720" alt="{{ page.title }}" layout="responsive" src="{{ site.baseurl }}{{ page.cover }}" media="(max-width: 415px)"></amp-img>
-    <amp-img height="720" alt="{{ page.title }}" layout="fixed-height" src="{{ site.baseurl }}{{ page.cover }}" media="(min-width: 416px)"></amp-img>
-    <figcaption class="absolute top-0 right-0 bottom-0 left-0">
-      <header class="p3">
-        <h1 class="ampstart-fullpage-hero-heading mb0 hanuman">
-          <span class="ampstart-fullpage-hero-heading-text title">
-            {{ page.title }}
-          </span>
-        </h1>
-        <h2 class="ampstart-fullpage-hero-heading mb0">
-          {% if page.author %}
-          <span class="ampstart-fullpage-hero-heading-text description">
-            By <b><a href="#" role="author" class="text-decoration-none author">{{page.author}}</a></b>
-          </span>
-          {% endif %}
-        </h2>
-      </header>
-      <footer class="absolute left-0 right-0 bottom-0">
-        <a class="ampstart-readmore py3 caps line-height-2 text-decoration-none center block h5" href="#content"><span class="ampstart-readmore-text px1">Read more</span></a>
-      </footer>
+  
+  <figure {% if page.contain %} class="ampstart-image-fullpage-contain m0 relative mb4" {% else %} class="ampstart-image-fullpage-hero m0 relative mb4" {%endif%}>
+   <!--  <amp-img width="404" height="720" alt="{{ page.title }}" layout="responsive" src="{{ site.baseurl }}{{ page.cover }}" media="(max-width: 415px)"></amp-img> -->
+    <amp-img on="tap:lightbox1"   role="button" tabindex=0
+ height="720" alt="{{ page.title }}" layout="fixed-height" src="{{ site.url }}/{{ page.cover }}" ></amp-img>
+   
+ <figcaption >
+      
+            <h1 class="center">{{ page.title }}</h1>
+      
     </figcaption>
+  
+
   </figure>
+
 <nav>
 
 
   <main id="content" role="main" class="">
+    <amp-lightbox id="lightbox1" layout="nodisplay">
+     <div class="lightbox"
+       on="tap:lightbox1.close"
+       role="button"
+       tabindex="0">
+
+    <h1>{{page.plateLocation}}</h1>
+
+    <amp-iframe 
+sandbox="allow-scripts allow-presentation allow-popups allow-modals"
+layout="fill"
+frameborder="0"
+src="https://faims.github.io/tiles/Kanawati-Evans-BH1-Pl-42a-Beni-Hassan-3-Khnumhotep-II-Chapel-Scene-North-wall-Centre-section-Wall.html"
+>
+  </div>
+
+  </amp-lightbox>
     <article class="photo-article">
       <div class="post-meta mb4 px3">
         
@@ -58,6 +66,8 @@ layout: default
   {% else %}
 
     <main id="content" role="main" class="">
+
+
       <article class="recipe-article">
         <header>
           {% if page.tags.size > 0 %}
