@@ -23,7 +23,7 @@ Khnumhotep II served during the reign of pharaohs Amenemhat II and Senwosret II 
 <amp-accordion>
   <section>
     <h2>Portico</h2>
-    <div>
+    <div class="indentedList">
       <ul>
         <li><a href="/gallery/02a/">Entrance lintel and jambs</a></li>
       </ul>
@@ -33,16 +33,16 @@ Khnumhotep II served during the reign of pharaohs Amenemhat II and Senwosret II 
   <section>
     <h2>Chapel</h2>
     <div>
-      <ul>
+      <ul class="indentedList">
         <li>North Wall</li>
-        <ul>
+        <ul class="indentedList">
           <li><a href="/gallery/42a/">A procession of foreigners</a></li>
           <li><a href="/gallery/43a/">Scroll recording the arrival of a group of foreigners</a></li>
         </ul>
       </ul>
-      <ul>
+      <ul class="indentedList">
         <li>East Wall</li>
-        <ul>
+        <ul class="indentedList">
           <li><a href="/gallery/07a/">(Auto)biography of Khnumhotep II | Lines 1-13</a></li>
         </ul>
       </ul>
