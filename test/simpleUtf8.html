@@ -1,34 +1,102 @@
 <!DOCTYPE html>
-<html>
+<html ⚡>
 <head>
+	<meta charset="UTF-8">
+	<script async src="https://cdn.ampproject.org/v0.js"></script>
+	<link rel="canonical" href="https://benihassan.com">
+	<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 	<title></title>
-	  <meta charset="UTF-8">
 	  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<script async custom-element="amp-font" src="https://cdn.ampproject.org/v0/amp-font-0.1.js"></script>
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
-<style type="text/css">
+<style amp-custom>
 /* noto-sans-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Font Does Not exist';
+    font-style: normal;
+    font-weight: 400;
+    src: url(fonts/FontDoesNotExist.ttf) format('truetype');
+  }
 @font-face {
   font-family: 'Noto Sans';
   font-style: normal;
   font-weight: 400;
 
-  src: local('Noto Sans'), local('NotoSans'),       
-       url('/fonts/noto-sans-v7-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('/fonts/noto-sans-v7-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/fonts/noto-sans-v7-latin-ext_latin-regular.woff') format('woff'); /* Modern Browsers */
+  src: 
+       url('/fonts/noto-sans-v7-latin-ext_latin-regular.ttf') format('truetype');
 }
 
 
 
 	body{
-		font-family: 'Noto Sans', serif;
+		
 		text-rendering:optimizeLegibility;
 		font-size: 80pt;
 	}
+	div {
+	width: 800px;
+	text-align: center;
+}	
+
+ .unavailable-font-loaded .unavailable-font {
+    font-family: 'Font Does Not exist', serif, sans-serif;
+  }
+  .comicamp-loaded .comicamp {
+    font-family: 'Noto Sans', serif, sans-serif;
+  }
+  .another-unavailable-font-loaded .another-unavailable-font {
+    font-family: 'Another Font That Does Not exist', serif, sans-serif;
+  }
+  .unavailable-font-loading, .comicamp-loading, .another-unavailable-font-loading {
+    color: blue;
+  }
+  .unavailable-font-loading .unavailable-font,
+    .comicamp-loading .comicamp,
+      .another-unavailable-font-loading .another-unavailable-font {
+        color: aqua;
+  }
+  .unavailable-font-missing .unavailable-font,
+    .comicamp-missing .comicamp,
+      .another-unavailable-font-missing .another-unavailable-font  {
+        color: red;
+  }
+
 </style>
 </head>
 <body>
-	<div style="width:600px">
+
+
+<amp-font  layout="nodisplay"
+  font-family="Font Does Not exist"
+  timeout="2000"
+  on-error-remove-class="unavailable-font-loading"
+  on-error-add-class="unavailable-font-missing"
+  on-load-remove-class="unavailable-font-loading"
+  on-load-add-class="unavailable-font-loaded">
+</amp-font>
+  <amp-font layout="nodisplay"
+    font-family="Noto Sans"
+    timeout="2000"
+    on-error-remove-class="comicamp-loading"
+    on-error-add-class="comicamp-missing"
+    on-load-remove-class="comicamp-loading"
+    on-load-add-class="comicamp-loaded">
+  </amp-font>
+
+	<div class="comicamp">
+		Noto sans
+		<br/>
+"Ꜥ" "ḥ" "Ꜣ" "Ꜥ"
+
+<br>
+
+"&#42788;" "&#7717;" "&#42786;" "&#42788;"
+
+</div>
+
+<div class="unavailable-font">
+	broken<br/>
 "Ꜥ" "ḥ" "Ꜣ" "Ꜥ"
 
 <br>
