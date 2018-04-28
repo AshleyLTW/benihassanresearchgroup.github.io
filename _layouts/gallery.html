@@ -73,9 +73,9 @@ layout: default
             <h2 class="mt4 mb2">{{ page.title }}</h2>
             <div class="italic">{{page.location}}</div>
             <amp-selector role="tablist" layout="container" class="ampTabContainer">
-                <div role="tab" class="tabButton sand" selected option="a1">Description</div>
+                <div role="tab" class="tabButton sand descButton" selected option="a1">Description</div>
                 <div role="tabpanel" class="tabContent">{{page.longdescription}}</div>
-                <div role="tab" class="tabButton sand" option="b1">Details</div>
+                <div role="tab" class="tabButton sand descButton" option="b1">Details</div>
                 <div role="tabpanel" class="tabContent">
                   <dl>
                     <dt>Date</dt>
@@ -90,7 +90,7 @@ layout: default
                     <dd>{{page.parentContext}}</dd>
                   </dl>
                 </div>
-                <div role="tab" class="tabButton sand" option="c1">Referencing</div>
+                <div role="tab" class="tabButton sand descButton" option="c1">Referencing</div>
                 <div role="tabpanel" class="tabContent">
                   
                 <dl>
