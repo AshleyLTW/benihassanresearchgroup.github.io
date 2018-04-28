@@ -17,6 +17,23 @@ time, mark, audio, video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  font-style: inherit;
+  font-variant-ligatures: inherit;
+  font-variant-caps: inherit;
+  font-variant-numeric: inherit;
+  font-variant-east-asian: inherit;
+  font-weight: inherit;
+  font-stretch: inherit;
+  font-size: 100%;
+  line-height: inherit;
+  font-family: inherit;
+  text-rendering: optimizelegibility;
+  -webkit-font-feature-settings: "kern";
+  font-feature-settings: "kern";
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+  text-size-adjust: none;
 
 }
 /* HTML5 display-role reset for older browsers */

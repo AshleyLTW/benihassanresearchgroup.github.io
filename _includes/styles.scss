@@ -1,14 +1,18 @@
 @import 'cssreset';
 @import 'bourbon/bourbon';
 @import 'syntax-highlighting';
-@import 'fonts';
+@import 'roboto';
 
 $grey-color:       #373A36;
 $theme-color: #A6192E;
 $topbar-color: #D6D2C4;
 
 
-body{background:#fff;color:#4a4a4a;font-family:'Noto Sans','Noto Sans Egyptian Hieroglyphs',Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,sans-serif;min-width:315px;overflow-x:hidden;font-smooth:always;-webkit-font-smoothing:antialiased}
+body{background:#fff;
+color:#4a4a4a;
+font-family: Roboto,sans-serif;
+min-width:315px;
+overflow-x:hidden;font-smooth:always;-webkit-font-smoothing:antialiased}
 
 .full{
   width:100%;
@@ -148,7 +152,7 @@ h2.ampstart-fullpage-hero-heading{font-size: 1.5rem; line-height:2rem;}
 }
 $rs: 16px;
 $font-serif: Georgia,Cambria,"Times New Roman",Times,'Lora', serif;
-$font-sans: "Helvetica Neue", 'Open Sans', Arial, Helvetica, sans-serif;
+$font-sans: "Roboto", sans-serif;
 @mixin respond-to($breakpoint) {
   @media only screen and (max-width: $breakpoint + px) {
     @content;
@@ -367,7 +371,6 @@ body {
   }
   .post-content {
     width: 100%;
-    font-family: $font-serif;
     color: #333333;
     h1, h2, h3 {
       font-family: $font-sans;
