@@ -1,4 +1,4 @@
-@import 'cssreset';
+
 @import 'bourbon/bourbon';
 @import 'syntax-highlighting';
 @import 'roboto';
@@ -19,7 +19,7 @@ overflow-x:hidden;font-smooth:always;-webkit-font-smoothing:antialiased}
 }
 .pct33{
  
-  width:30%;
+  width:200px;
 
 }
 .descButton{
@@ -112,7 +112,7 @@ dt {
         cursor: pointer;
         color:$theme-color;
         
-        padding-top:2vh;
+        padding-top:1.5vh;
         padding-bottom:1vh;
         vertical-align:middle;
     }
@@ -698,6 +698,8 @@ main{max-width:700px;margin:0 auto}p{padding:0;margin:0}.ampstart-accent{color:$
   }
   p {
       margin-bottom: 1rem;
+      line-height: 1.25rem;
+
       // padding-left: 1.5rem;
       // padding-right: 1.5rem;
   }
