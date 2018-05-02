@@ -49,7 +49,8 @@ The research group, comprised of academic staff, doctoral candidates and undergr
 
 The Beni Hassan Research Group (BHRG) meets regularly to work on aspects of the project and is comprised of the following members:
 
-Co-ordinators:
+### Co-ordinators:
+
 * [Alexandra Woods \| Academic Lead](/team/AlexandraWoods)
 * [Brian Ballsun-Stanton \| Data Architect](/team/BrianBallsunStanton)
 * [Nicolle Leary \| Project manager](/team/NicolleLeary)
