@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Beni Hassan Visual Dictionary
-permalink: /gallery/
+permalink: /dictionary/
 
 ---
 
@@ -25,7 +25,7 @@ Khnumhotep II served during the reign of pharaohs Amenemhat II and Senwosret II 
     <h2>Portico</h2>
     <div class="indentedList">
       <ul>
-        <li><a href="/gallery/02a/">Entrance lintel and jambs</a></li>
+        <li><a href="/gallery/Kanawati-Evans-BH1-Pl-02a-Beni-Hassan-Khnumhotep-II-Tomb-3-Portico-Architectural-feature-East-wall-Middle-section-Doorway/">Entrance lintel and jambs</a></li>
       </ul>
     </div>
   </section>
@@ -36,14 +36,14 @@ Khnumhotep II served during the reign of pharaohs Amenemhat II and Senwosret II 
       <ul class="indentedList">
         <li>North Wall</li>
         <ul class="indentedList">
-          <li><a href="/gallery/42a/">A procession of foreigners</a></li>
-          <li><a href="/gallery/43a/">Scroll recording the arrival of a group of foreigners</a></li>
+          <li><a href="/dictionary/Kanawati-Evans-BH1-Pl-42a-Beni-Hassan-3-Khnumhotep-II-Chapel-Scene-North-wall-Centre-section-Wall/">A procession of foreigners</a></li>
+          <li><a href="/dictionary/Kanawati-Evans-BH1-Pl-43a-Beni-Hassan-Khnumhotep-II-Tomb-3-Chapel-Scene-North-wall-Centre-section-Wall/">Scroll recording the arrival of a group of foreigners</a></li>
         </ul>
       </ul>
       <ul class="indentedList">
         <li>East Wall</li>
         <ul class="indentedList">
-          <li><a href="/gallery/07a/">(Auto)biography of Khnumhotep II | Lines 1-13</a></li>
+          <li><a href="/dictionary/Kanawati-Evans-BH1-Pl-07a-Beni-Hassan-Khnumhotep-II-Tomb-3-Chapel-Inscription-East-wall-Lower-section-Wall/">(Auto)biography of Khnumhotep II | Lines 1-13</a></li>
         </ul>
       </ul>
     </div>

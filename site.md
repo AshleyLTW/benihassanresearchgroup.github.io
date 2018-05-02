@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beni Hassan: Site Overview
+title: "Beni Hassan: Site Overview"
 permalink: /site/
 ---
 
