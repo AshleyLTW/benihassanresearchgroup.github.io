@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Site Overview
+title: Beni Hassan: Site Overview
 permalink: /site/
 ---
 
@@ -13,7 +13,7 @@ permalink: /site/
 <header class="p3">
 <h1 class="ampstart-fullpage-hero-heading mb0 hanuman">
 <span class="ampstart-fullpage-hero-heading-text title">
-Site Overview
+Beni Hassan: Site Overview
 </span>
 </h1>
 <h2 class="ampstart-fullpage-hero-heading mb0">
@@ -49,7 +49,9 @@ Site Overview
 </amp-iframe>
 
 <br>
-Beni Hassan is situated on the east bank of the Nile, approximately 250km south of Cairo and falls within the ancient boundaries of the 16th province or nome of Upper Egypt, which inscriptions refer to as the Oryx-nome. With excellent rock formation, the region possesses some of the best limestone in the country after Tura, the quarry that serviced the Memphite cemeteries to the north. The tombs at Beni Hassan, dating to the 6th-12th Dynasties spanning from the late Old Kingdom, First Intermediate Period and into the Middle Kingdom, are cut in two ridges half-way up the mountain and command an impressive view across the escarpment and the river Nile. The upper cemetery houses the rock-cut tombs of the administrators of the region, while the lower cemetery consists of a series of shaft and pit tombs at the base of the cliffs and contains the tombs of officials connected to those buried in the upper cemetery. Speos Artemidos, a rock-cut shrine originally dedicated to the local lion-headed goddess Pakhet, built by Queen Hatshepsut and Thutmose III of the 18th Dynasty, lies 1.5km south in an ancient quarry, with a smaller shrine of Alexander II nearby.
+Beni Hassan is situated on the east bank of the Nile, approximately 250km south of Cairo and falls within the ancient boundaries of the 16th province or nome of Upper Egypt, which inscriptions refer to as the Oryx-nome. With excellent rock formation, the region possesses some of the best limestone in the country after Tura, the quarry that serviced the Memphite cemeteries to the north.
+
+The tombs at Beni Hassan, dating to the 6th-12th Dynasties spanning from the late Old Kingdom, First Intermediate Period and into the Middle Kingdom, are cut in two ridges half-way up the mountain and command an impressive view across the escarpment and the river Nile. The upper cemetery houses the rock-cut tombs of the administrators of the region, while the lower cemetery consists of a series of shaft and pit tombs at the base of the cliffs and contains the tombs of officials connected to those buried in the upper cemetery. Speos Artemidos, a rock-cut shrine originally dedicated to the local lion-headed goddess Pakhet, built by Queen Hatshepsut and Thutmose III of the 18th Dynasty, lies 1.5km south in an ancient quarry, with a smaller shrine of Alexander II nearby.
 
 At present, the following Old and Middle Kingdom cemeteries can be identified at Beni Hassan:
 <ol>
@@ -57,19 +59,19 @@ At present, the following Old and Middle Kingdom cemeteries can be identified at
 
 <p>Four out of the 39 tombs are accessible to the public. The inscribed tombs at Beni Hassan are:
 <ul class="mb3">
-<li> Tomb 2 -- Amenemhat, known as Ameny, nomarch under Senwosret I (accessible).</li>
-<li> Tomb 3 -- Khnumhotep II, overseer of the Eastern Desert under Amenemhat II. The tomb is notable for the depiction of Asiatic traders (accessible).</li>
-<li> Tomb 4 -- Khnumhotep IV, nomarch during the late 12th Dynasty (closed).</li>
-<li> Tomb 13 -- Khnumhotep, royal scribe during the 12th Dynasty (closed).</li>
-<li>  Tomb 14 -- Khnumhotep I, nomarch under Amenemhat I (closed).</li>
-<li> Tomb 15 -- Baqet III, notable for the depiction of wrestling techniques (accessible).</li>
-<li>  Tomb 17 -- Khety, nomarch during the 11th Dynasty, son of Baqet; notable for depiction of what may be ball games (accessible).</li>
-<li> Tomb 21 -- Nakht, nomarch during the 12th Dynasty (closed).</li>
-<li> Tomb 23 -- Netjernakht, overseer of the Eastern Desert during the 12th dynasty (closed).</li>
-<li>  Tomb 27 -- Ramushenty, nomarch during the 11th Dynasty (closed).</li>
-<li>  Tomb 29 -- Baqet I, nomarch during the 11th Dynasty (closed).</li>
-<li>  Tomb 33 -- Baqet II, nomarch during the 11th Dynasty (closed).</li>
-</ul>
+<li> *Tomb 2* | Amenemhat, known as Ameny, nomarch under Senwosret I (accessible).</li>
+<li> *Tomb 3* | Khnumhotep II, overseer of the Eastern Desert under Amenemhat II. The tomb is notable for the depiction of Asiatic traders and an extensive (auto)biography detailing his personal achievements (accessible).</li>
+<li> *Tomb 4* | Khnumhotep IV, nomarch during the late 12th Dynasty (closed).</li>
+<li> *Tomb 13* | Khnumhotep, royal scribe during the 12th Dynasty (closed).</li>
+<li> *Tomb 14* | Khnumhotep I, nomarch under Amenemhat I (closed).</li>
+<li> *Tomb 15* | Baqet III, notable for the depiction of wrestling techniques (accessible).</li>
+<li> *Tomb 17* | Khety, nomarch during the 11th Dynasty, son of Baqet; notable for depiction of what may be ball games (accessible).</li>
+<li> *Tomb 21* | Nakht, nomarch during the 12th Dynasty (closed).</li>
+<li> *Tomb 23* | Netjernakht, overseer of the Eastern Desert during the 12th dynasty (closed).</li>
+<li> *Tomb 27* | Ramushenty, nomarch during the 11th Dynasty (closed).</li>
+<li> *Tomb 29* | Baqet I, nomarch during the 11th Dynasty (closed).</li>
+<li> *Tomb 33* | Baqet II, nomarch during the 11th Dynasty (closed).</li>
+
 </p>
 </li>
 <li class="mb1"> <span class="emph">The necropolis of Nuweirat</span>: This cemetery is located to the north of the upper cemetery of Beni Hassan and contains small rock-cut tombs with square-shaped cult chambers, one or two short shafts and short burial chambers for contracted burials.</li>
@@ -79,7 +81,8 @@ At present, the following Old and Middle Kingdom cemeteries can be identified at
 <li class="mb1"><span class="emph">The lower cemetery at Beni Hassan</span>: This cemetery is located within the escarpment at the foot of the cliffs, which was originally excavated between 1902 and 1904 by John Garstang from Liverpool University. Some 888 individual burials were uncovered and date from the late 6th dynasty to the first half of the 12th dynasty. These tombs belong to officials serving the administators buried in the upper cemetery and contain small rock-cut tombs with square-shaped cult chambers, one or two short shafts and short burial chambers. These tombs have not received the attention accorded to the more famous and renowned tombs in the upper cemetery. Nonetheless, the burials have yielded a wealth of archaeological material, such as pottery, coffins, wooden models of boats and figurines, and other funerary equipment, which is crucial to determine the date of the burials in both levels at the site and, more importantly, our understanding of the burial customs and religious beliefs of Egyptian society at the time.</li>
 </ol>
 
-For further reading see: M. Bommas,"First Intermediate Period tombs at Beni Hassan: Problems and Priorities (including BH no.
-420 and the unpublished box coffin fragment BH3Liv)", *Studien zur Altägyptischen Kultur*, 41 (2012), 43-65.
+For further reading see:
+</ul><li>M. Bommas,"First Intermediate Period tombs at Beni Hassan: Problems and Priorities (including BH no.
+420 and the unpublished box coffin fragment BH3Liv)", *Studien zur Altägyptischen Kultur*, 41 (2012), 43-65.<li></ul>
 
 </main>
