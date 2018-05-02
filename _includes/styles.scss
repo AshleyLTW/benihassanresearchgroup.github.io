@@ -11,6 +11,10 @@ $topbar-color: #D6D2C4;
   width:30%;
 
 }
+
+.halfHeight{
+  height: 300px;
+}
 .nomargin{
   -webkit-margin-before: 0em;
     -webkit-margin-after: 0em;
@@ -105,16 +109,20 @@ dt {
     align-items: center;
     justify-content: center;
 }
+
 .ampstart-image-fullpage-contain>amp-iframe>amp-img img{-o-object-fit:contain;object-fit:contain}
 .ampstart-image-fullpage-contain>amp-img img{-o-object-fit:contain;object-fit:contain}
 .ampstart-image-fullpage-contain{color:#fff; background: #424242; height: calc(70vh)}
 .ampstart-fullpage-hero-heading-text,.ampstart-image-fullpage-contain.ampstart-image-credit{-webkit-box-decoration-break:clone;box-decoration-break:clone;background:$theme-color;padding:0 1rem .2rem}.ampstart-image-fullpage-contain>amp-img{max-height:calc(100vh - 3.5rem)}
 .ampstart-fullpage-hero-heading{font-size: 3rem; line-height:2.5rem;}
 .ampstart-fullpage-hero-cta{background:transparent}
-.ampstart-readmore{background:-webkit-linear-gradient(bottom,rgba(0,0,0,.65),transparent);background:linear-gradient(0deg,rgba(0,0,0,.65) 0,transparent);color:#fff;margin-top:5rem;padding-bottom:3.5rem}.ampstart-readmore:after{display:block;content:"⌄";font-size:2rem}.ampstart-readmore-text{background:$theme-color}@media (min-width:52.06rem){.ampstart-image-fullpage-contain>amp-img{height:60vh}}
+.ampstart-readmore{background:-webkit-linear-gradient(bottom,rgba(0,0,0,.65),transparent);background:linear-gradient(0deg,rgba(0,0,0,.65) 0,transparent);color:#fff;margin-top:5rem;padding-bottom:3.5rem}.ampstart-readmore:after{display:block;content:"⌄";font-size:2rem}.ampstart-readmore-text{background:$theme-color;color:#ffffff;text-size:2rem;}@media (min-width:52.06rem){.ampstart-image-fullpage-contain>amp-img{height:60vh}}
 
-.ampstart-image-fullpage-hero>amp-img img{-o-object-fit:cover;object-fit:cover}
-.ampstart-image-fullpage-hero{color:#fff; background: #424242}.ampstart-fullpage-hero-heading-text,.ampstart-image-fullpage-hero .ampstart-image-credit{-webkit-box-decoration-break:clone;box-decoration-break:clone;background:$theme-color;padding:0 1rem .2rem}.ampstart-image-fullpage-hero>amp-img{max-height:calc(100vh - 3.5rem)}.ampstart-fullpage-hero-heading{font-size: 3rem; line-height:2.5rem;}.ampstart-fullpage-hero-cta{background:transparent}.ampstart-readmore{background:-webkit-linear-gradient(bottom,rgba(0,0,0,.65),transparent);background:linear-gradient(0deg,rgba(0,0,0,.65) 0,transparent);color:#fff;margin-top:5rem;padding-bottom:3.5rem}.ampstart-readmore:after{display:block;content:"⌄";font-size:2rem}.ampstart-readmore-text{background:$theme-color}@media (min-width:52.06rem){.ampstart-image-fullpage-hero>amp-img{height:60vh}}
+.ampstart-image-fullpage-hero>amp-img img{-o-object-fit:cover;object-fit:cover; }
+.ampstart-image-fullpage-hero{color:#fff; background: #424242; }
+.ampstart-fullpage-hero-heading-text,.ampstart-image-fullpage-hero .ampstart-image-credit{-webkit-box-decoration-break:clone;box-decoration-break:clone;background:$theme-color;padding:0 1rem .2rem}.ampstart-image-fullpage-hero>amp-img{height:calc(100vh - 3.5rem)}
+.ampstart-fullpage-hero-heading{font-size: 3rem; line-height:2.5rem;}
+.ampstart-fullpage-hero-cta{background:transparent}.ampstart-readmore{background:-webkit-linear-gradient(bottom,rgba(0,0,0,.65),transparent);background:linear-gradient(0deg,rgba(0,0,0,.65) 0,transparent);color:#fff;margin-top:5rem;padding-bottom:3.5rem}.ampstart-readmore:after{display:block;content:"⌄";font-size:2rem}.ampstart-readmore-text{background:$theme-color}
 
 .icon {
     > svg {
@@ -397,7 +405,7 @@ body {
       line-height: 1.59;
       letter-spacing: -.002em;
       margin-top: 30px;
-      margin-bottom: 0;
+      
       color: #333333;
       -webkit-hyphens: auto;
       -moz-hyphens: auto;
@@ -664,14 +672,14 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
   }
   p {
 
-      margin-bottom: 2rem;
-      line-height: 1.25rem;
+      margin-bottom: 1rem;
+      line-height: 1.5rem;
 
       font-weight: 400;
       font-style: normal;
       
       
-      letter-spacing: -.002em;
+      letter-spacing: .02em;
       
       -webkit-hyphens: auto;
       -moz-hyphens: auto;
@@ -736,8 +744,13 @@ hr {
 // dl dt {
 //     padding-left: 2rem;
 // }
+
+dl dt{
+  font-weight: 700;
+}
 dl dd {
     padding-left: 0.5rem;
+    -webkit-margin-start: 0.5rem;
 }
 table {
     border-collapse: collapse;
