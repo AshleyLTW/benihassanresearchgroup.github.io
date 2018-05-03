@@ -109,7 +109,17 @@ dt {
     align-items: center;
     justify-content: center;
 }
+ul.biblio{
+   list-style: disc outside none;
+    margin-left: 0; 
+    padding-left: 2em;
+    text-indent: -2em;
+}
+ul.biblio>li{
+    padding-left: 2em;
+    margin-bottom: 0.5rem;
 
+}
 .ampstart-image-fullpage-contain>amp-iframe>amp-img img{-o-object-fit:contain;object-fit:contain}
 .ampstart-image-fullpage-contain>amp-img img{-o-object-fit:contain;object-fit:contain}
 .ampstart-image-fullpage-contain{color:#fff; background: #424242; height: calc(70vh)}
