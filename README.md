@@ -1,6 +1,6 @@
 # Github Jekyll repository for benihassan.com
 
-Using [Browserstack ![Browserstack logo](https://www.benihassan.com/assets/images/Browserstack-Logo-01.svg)](https://www.browserstack.com/) to debug egpytological font and rendering problems since 2018.
+Using <a href="https://www.browserstack.com/"><img src="https://www.benihassan.com/assets/images/Browserstack-Logo-01.svg" style="width:200px"/>Browserstack</a> to debug egpytological font and rendering problems since 2018.
 
 ## The Beni Hassan @ Macquarie project aims to:
 
