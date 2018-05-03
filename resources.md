@@ -26,7 +26,7 @@ The below provides an overview of the fundamental studies associated with the va
 </li>
 <li>Kamrin, J., "Beni Hassan." <span class='italic'>The Encyclopedia of Ancient History</span> (2012). <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781444338386.wbeah15062/abstract">Access here.</a>
 </li>
-<li>Porter, B. and R.L.B. Moss. "Beni Hasan and Speos Artemidos." In: <span class='italic'>Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings: IV. Lower and Middle Egypt</span> (Oxford, 1968),141-165. <a href="http://griffith.ox.ac.uk/topbib/pdf/pm4.pdf">Access the volume here.</a>
+<li>Porter, B. and R.L.B. Moss. "Beni Hasan and Speos Artemidos." In: <span class='italic'>Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings: IV. Lower and Middle Egypt</span> (Oxford, 1968),141-165. <a href="http://griffith.ox.ac.uk/topbib/pdf/pm4.pdf">Access here.</a>
 </li>
 <li>Spanel, D.B., "Beni Hasan." In: Redford, D.B., (ed.), <span class='italic'>The Oxford Encyclopedia of Ancient Egypt</span> (Oxford, 2001), 175-177.
 </li>
@@ -45,7 +45,7 @@ The below provides an overview of the fundamental studies associated with the va
 </li>
 <li>Cooke, J. "Beni Hasan." <span class='italic'>The Expository Times</span>, 5 &#91;3&#92; (1893), 117-119.
 </li>
-<li>Review: "The Tombs at Beni Hasan." <span class='italic'>Nature</span> 49 (1893), 169-170
+<li>Review: "The Tombs at Beni Hasan." <span class='italic'>Nature</span> 49 (1893), 169-170.
 </li>
 <li>Borchardt, L., and Erman, A.,  <span class='italic'>Beiträge zu Griffith Beni Hasan III</span> (Berlin, 1897).
 </li>
@@ -65,7 +65,7 @@ The below provides an overview of the fundamental studies associated with the va
 </li>
 <li>Lashien, M., <span class='italic'>Beni Hassan. Vol. II: Two Old Kingdom Tombs</span> (ACE Reports 39; Oxford: Aris and Phillips, 2016).
 </li>
-<li>Lepsius, R. Beni hassan. In <span class='italic'>Denkmäler aus Aegypten und Aethiopien. Text. Zweiter Band: Mittelaegypten mit dem Faijum</span> (Leipzig, 1904), 69-108.<a href="https://archive.org/stream/denkmaelerausaeg12leps#page/69/mode/1up">Access the volume here.</a>
+<li>Lepsius, R. "Beni hassan". In: <span class='italic'>Denkmäler aus Aegypten und Aethiopien. Text. Zweiter Band: Mittelaegypten mit dem Faijum</span> (Leipzig, 1904), 69-108. <a href="https://archive.org/stream/denkmaelerausaeg12leps#page/69/mode/1up">Access the volume here.</a>
 </li>
 <li>Newberry, P.E., and Griffith F. Ll., <span class='italic'>Beni Hasan. Parts I-IV</span> (London, 1893-1900). Access selected volumes from the University of Heidelberg: <a href="http://digi.ub.uni-heidelberg.de/diglit/newberry1893bd1">for Part I click here</a> and for <a href="http://digi.ub.uni-heidelberg.de/diglit/newberry1893bd2">Part II click here.</a>
 </li>
@@ -85,7 +85,7 @@ The below provides an overview of the fundamental studies associated with the va
 
 <li>Allen, J.P., "The Historical Inscription of Khnumhotep at Dahshur: Preliminary Report," <span class='italic'>Bulletin of the American School of Oriental Research</span> 352 (2008), 29-39.
 </li>
-<li>Sydney H. Aufrere, S.H., "The Deserts and the Fifteenth and Sixteenth Upper Egyptian Nomes during the Middle Kingdom,." In: Friedman, R., (ed.) <span class='italic'>Egypt and Nubia: Gifts of the Desert</span> (London, 2002), 207--214.
+<li>Aufrere, S.H., "The Deserts and the Fifteenth and Sixteenth Upper Egyptian Nomes during the Middle Kingdom,." In: Friedman, R., (ed.) <span class='italic'>Egypt and Nubia: Gifts of the Desert</span> (London, 2002), 207-214.
 </li>
 <li>Bailleul-LeSuer, R. and Wyatt, J., "19th century epigraphers as key to the identification of Baqet III's birds at Beni Hassan." In: Betrò, M., and Miniaci, G., (eds), <span class='italic'>Talking along the Nile: Ippolito Rosellini, travellers and scholars of the 19th century in Egypt: Proceedings of the International Conference held on the occasion of the presentation of Progetto Rosellini. Pisa, June 14-16, 2012</span> (Pisa, 2013), 19-34.
 </li>
@@ -97,11 +97,11 @@ The below provides an overview of the fundamental studies associated with the va
 </li>
 <li>Bucking, S.,"Now You See It, Now You Don't: The Dynamics of Archaeological and Epigraphic Landscapes from Coptic Egypt." In M.M. Kersel and M.T. Rutz (eds) <span class='italic'>Archaeologies of Text: Archaeology, Technology, and Ethics</span> (Oxford, 2014), 60-80.
 </li>
-<li>Cohen, S.,"Interpretative Uses and Abuses of the Beni Hasan Tomb Painting." <span class='italic'>Journal of Near Eastern Studies</span> 74 &#91;1&#92; (2015), 19--38.
+<li>Cohen, S.,"Interpretative Uses and Abuses of the Beni Hasan Tomb Painting." <span class='italic'>Journal of Near Eastern Studies</span> 74 &#91;1&#92; (2015), 19-38.
 </li>
-<li>David, A., "Hoopoes and Acacias: Decoding an Ancient Egyptian Funerary Scene," <span class='italic'>Journal of Near Eastern Studies</span> 73 &#91;2&#92; 2014, 235-252.
+<li>David, A., "Hoopoes and Acacias: Decoding an Ancient Egyptian Funerary Scene," <span class='italic'>Journal of Near Eastern Studies</span> 73 &#91;2&#92; (2014), 235-252.
 </li>
-<li>Davies, Nina M., "Birds and Bats at Beni Ḥasan." <span class='italic'>The Journal of Egyptian Archaeology</span> 35 (1949), 13--20.
+<li>Davies, Nina M., "Birds and Bats at Beni Ḥasan." <span class='italic'>The Journal of Egyptian Archaeology</span> 35 (1949), 13-20.
 </li>
 <li>Eschenbrenner-Diemer, G., <span class='italic'>Les modèles égyptiens en bois. Matériau, fabrication, diffusion, de la fin de l'Ancien à la fin du Moyen Empire (env. 2350-1630 av. J.-C.).</span> PhD dissertation, University of Lyon, 2013.
 </li>
@@ -118,11 +118,11 @@ The below provides an overview of the fundamental studies associated with the va
 <li>Goedicke, H., "Abi-Sha(i)'s Representation in Beni Hasan." <span class='italic'>Journal of Egyptian Archaeology</span> 21 (1984), 203-210.
 </li>
 
-<li>Görg, M., "Zur Rezeptionsgeschichte der Asiaten-Szene von Beni-Hassan," <span class='italic'>Biblische Notizen</span> 88 (1997), 9--15.
+<li>Görg, M., "Zur Rezeptionsgeschichte der Asiaten-Szene von Beni-Hassan," <span class='italic'>Biblische Notizen</span> 88 (1997), 9-15.
 </li>
 <li>Grajetzki, W. <span class='italic'>Court Officials of the Egyptian Middle Kingdom</span> (London, 2009).
 </li>
-<li>Hassan, K. "The Visitors' Graffiti in Two Tombs of Beni Hassan (Ameny and Khnumhotep II)." <span class='italic'>Journal of the American Research Center in Egypt</span> 52 (2016), 33--54.
+<li>Hassan, K. "The Visitors' Graffiti in Two Tombs of Beni Hassan (Ameny and Khnumhotep II)." <span class='italic'>Journal of the American Research Center in Egypt</span> 52 (2016), 33-54.
 </li>
 <li>Hölzl, C., "The Rock-Tombs of Beni Hasan: Architecture and Sequence." In: <span class='italic'>Sesto Congresso Internazionale Di Egittologia Torino - Italia September 1st-8th 1991</span> (Turin, 1992), 279-284.
 </li>
@@ -139,11 +139,11 @@ The below provides an overview of the fundamental studies associated with the va
 
 <li>Kamrin, J., "The Aamu of Shu in the Tomb of Khnumhotep II at Beni Hassan." <span class='italic'>Journal of Ancient Egyptian Interconnections</span> 1 &#91;3&#92; (2009), 22-36.
 </li>
-<li>Kessler, D. "Die Asiatenkarawane von Beni Hassan." <span class='italic'>Studien Zur Altägyptischen Kultur</span> 14 (1987), 147--65.
+<li>Kessler, D. "Die Asiatenkarawane von Beni Hassan." <span class='italic'>Studien Zur Altägyptischen Kultur</span> 14 (1987), 147-65.
 </li>
-<li>El-Khadragy, M., "Some Significant Features in the Decoration of the Chapel of Iti-Ibi-Iqer at Asyut." <span class='italic'>Studien Zur Altägyptischen Kultur</span> 36 (2007), 105--35.
+<li>El-Khadragy, M., "Some Significant Features in the Decoration of the Chapel of Iti-Ibi-Iqer at Asyut." <span class='italic'>Studien Zur Altägyptischen Kultur</span> 36 (2007), 105-135.
 </li>
-<li>Lloyd, A.B., "The Great Inscription of Khnumhotpe II at Beni Hasan." In: Lloyd, A.B. (ed), <span class='italic'>Studies in Pharaonic Religion and Society in Honour of J. Gwyn Griffiths</span> (London, 1992), 21--36.
+<li>Lloyd, A.B., "The Great Inscription of Khnumhotpe II at Beni Hasan." In: Lloyd, A.B. (ed), <span class='italic'>Studies in Pharaonic Religion and Society in Honour of J. Gwyn Griffiths</span> (London, 1992), 21-36.
 </li>
 <li>Miatello, L. "The nb.t in the Moscow mathematical papyrus, and a tomb model from Beni Hasan." <span class='italic'>The Journal of Egyptian Archaeology</span>, 96 (2010), 228-232.
 </li>
@@ -151,11 +151,11 @@ The below provides an overview of the fundamental studies associated with the va
 </li>
 
 
-<li>Moreno García, J.C., "Trade and Power in Ancient Egypt: Middle Egypt in the Late Third/Early Second Millennium BC." <span class='italic'>Journal of Archaeological Research</span> 25 &#91;2&#92; (2017), 87--132.
+<li>Moreno García, J.C., "Trade and Power in Ancient Egypt: Middle Egypt in the Late Third/Early Second Millennium BC." <span class='italic'>Journal of Archaeological Research</span> 25 &#91;2&#92; (2017), 87-132.
 </li>
 <li>Mourad, A.-L., <span class='italic'>Rise of the Hyksos: Egypt and the Levant from the Middle Kingdom to the Early Second Intermediate Period</span> (Archaeopress Egyptology 11, Oxford, 2015).
 </li>
-<li>Nelson-Hurst, M.G., "The (social) House of Khnumhotep." In: Miniaci, G., Grajetzki, W., (eds), <span class='italic'>The World of Middle Kingdom Egypt (2000--1550 BC): Contributions on archaeology, art, religion, and written sources</span> (Middle Kingdom Studies 1, London, 2015), 257--272.
+<li>Nelson-Hurst, M.G., "The (social) House of Khnumhotep." In: Miniaci, G., Grajetzki, W., (eds), <span class='italic'>The World of Middle Kingdom Egypt (2000-1550 BC): Contributions on archaeology, art, religion, and written sources</span> (Middle Kingdom Studies 1, London, 2015), 257-272.
 </li>
 <li>Oppenheim, A., Arnold, Do., Arnold, Di., Yamamoto, K., (eds) <span class='italic'>Ancient Egypt transformed: The Middle Kingdom</span> (New York, 2015).
 </li>
@@ -167,35 +167,35 @@ The below provides an overview of the fundamental studies associated with the va
 </li>
 <li>Orel, S.E., <span class='italic'>Chronology and Social Stratification in a Middle Kingdom Cemetery.</span> PhD Dissertation, University of Toronto, 1993.
 </li>
-<li>Rabehl, S., "Eine Gruppe von Asiaten im Grab Chnumhoteps II. (BH 3). Tradierung eines Bildmotivs in den Felsgräbern des Mittleren Reiches von Beni Hassan." <span class='italic'>Imago Aegypti</span> 1 (2005), 86--97.
+<li>Rabehl, S., "Eine Gruppe von Asiaten im Grab Chnumhoteps II. (BH 3). Tradierung eines Bildmotivs in den Felsgräbern des Mittleren Reiches von Beni Hassan." <span class='italic'>Imago Aegypti</span> 1 (2005), 86-97.
 </li>
-<li>Rabehl, S.M. <span class='italic'>Das Grab Des Gaufürsten Amenemhet (Jmnjj)in Beni Hassan Oder Der Versuch Einer Symbiose.</span> PhD Dissertation, Ludwig-Maximilians-Universität München, 2006. <a href="https://edoc.ub.uni-muenchen.de/5073/1/Rabehl_Silvia_Maria.pdf">Access the document here.</a>
+<li>Rabehl, S.M. <span class='italic'>Das Grab Des Gaufürsten Amenemhet (Jmnjj)in Beni Hassan Oder Der Versuch Einer Symbiose.</span> PhD Dissertation, Ludwig-Maximilians-Universität München, 2006. <a href="https://edoc.ub.uni-muenchen.de/5073/1/Rabehl_Silvia_Maria.pdf">Access here.</a>
 </li>
 <li>Redford, D. "The Father of Khnumḥotpe II of Beni Ḥasan." <span class='italic'>The Journal of Egyptian Archaeology</span>, 53 (1967), 158-159.
 </li>
-<li>Saretta, P., <span class='italic'>Egyptian Perceptions of West Semites in Art and Literature During the Middle Kingdom: An Archaeological, Art Historical, and Textual Survey.</span> PhD Dissertation,  New York University, 1997, especially 110--133.
+<li>Saretta, P., <span class='italic'>Egyptian Perceptions of West Semites in Art and Literature During the Middle Kingdom: An Archaeological, Art Historical, and Textual Survey.</span> PhD Dissertation,  New York University, 1997, especially 110-133.
 </li>
-<li>Schenkel, W., <span class='italic'>Frühmittelägyptische Studien</span> (Bonn, 1962), especially 78--84.
+<li>Schenkel, W., <span class='italic'>Frühmittelägyptische Studien</span> (Bonn, 1962), especially 78-84.
 </li>
 <li>Seidelmayer, S., "People at Beni Hassan: contributions to a model of ancient Egyptian rural society." In: Hawass, Z.A. and J. Richards (eds), <span class='italic'>The Archaeology and Art of Ancient Egypt. Essays in Honor of David B. O'Connor</span> (Cahier 36, Cairo, 2007), II, 351-368.
 </li>
-<li>Spanel, D.B., <span class='italic'>Beni Hassan in the Herakleopolitan Period.</span> PhD Dissertation, University of Toronto, 1985. <a href="http://simsrad.net/login?url=https://search-proquest-com.simsrad.net.ocs.mq.edu.au/docview/303391593">Access the document here.</a>
+<li>Spanel, D.B., <span class='italic'>Beni Hassan in the Herakleopolitan Period.</span> PhD Dissertation, University of Toronto, 1985. <a href="http://simsrad.net/login?url=https://search-proquest-com.simsrad.net.ocs.mq.edu.au/docview/303391593">Access here.</a>
 </li>
-<li> Spanel, D.B., "Ancient Egyptian Boat Models of the Herakleopolitan Period and the Eleventh Dynasty." <span class='italic'>Studien zur altägyptischen Kultur</span> 12 (1985), 243--53.
+<li> Spanel, D.B., "Ancient Egyptian Boat Models of the Herakleopolitan Period and the Eleventh Dynasty." <span class='italic'>Studien zur altägyptischen Kultur</span> 12 (1985), 243-53.
 </li>
 <li>Shea, W.H., "Artistic balance among the Beni Hasan asiatics." <span class='italic'>The Biblical Archaeologist</span> 44 &#91;4&#92; (Autumn, 1981), 219-228.
 </li>
 <li>Shedid, A.G., <span class='italic'>Die Felsgräber von Beni Hassan in Mittelägypten</span> (Mainz, 1994).
 </li>
-<li>Staubli, T., <span class='italic'>Das Image der Nomaden im Alten Israel und in der Ikonographie seiner sesshaften Nachbarn</span> (Fribourg, 1991), especially 30--35.
+<li>Staubli, T., <span class='italic'>Das Image der Nomaden im Alten Israel und in der Ikonographie seiner sesshaften Nachbarn</span> (Fribourg, 1991), especially 30-35.
 </li>
 <li>Tooley, A.M.J., "Coffin of a dog from Beni Hassan." <span class='italic'>The Journal of Egyptian Archaeology</span>, 74 (1988), 207-211.
 </li>
-<li>Ward, "The Case of Mrs. Tchat and Her Sons at Beni Hasan," <span class='italic'>Göttinger Miszellen</span> 71 (1984), 51--59.
+<li>Ward, "The Case of Mrs. Tchat and Her Sons at Beni Hasan," <span class='italic'>Göttinger Miszellen</span> 71 (1984), 51-59.
 </li>
-<li>Wilkinson, C.K., and Hill, M., <span class='italic'>Egyptian Wall Paintings: The Metropolitan Museum of Art's Collection of Facsimiles</span> (The Metropolitan Museum of Art, New York, 1983). <a href="https://www.metmuseum.org/art/metpublications/egyptian_wall_paintings_the_metropolitan_museum_of_arts_collection_of_facsimiles">Access the document here.</a>
+<li>Wilkinson, C.K., and Hill, M., <span class='italic'>Egyptian Wall Paintings: The Metropolitan Museum of Art's Collection of Facsimiles</span> (The Metropolitan Museum of Art, New York, 1983). <a href="https://www.metmuseum.org/art/metpublications/egyptian_wall_paintings_the_metropolitan_museum_of_arts_collection_of_facsimiles">Access here.</a>
 </li>
-<li>Willems, H., "The Nomarchs of the Hare Nome and Early Middle Kingdom History." <span class='italic'>Jaarbericht Ex Oriente Lux</span> 28 (1983--4), 80--102.
+<li>Willems, H., "The Nomarchs of the Hare Nome and Early Middle Kingdom History." <span class='italic'>Jaarbericht Ex Oriente Lux</span> 28 (1983-4), 80-102.
 </li>
 <li>Willems, H., <span class='italic'>Chests of life: A study of the typology and conceptual development of Middle Kingdom standard class coffin</span> (Leiden, 1988).
 </li>
@@ -215,6 +215,8 @@ The below provides an overview of the fundamental studies associated with the va
 
 <h2>Related Projects</h2>
 <div class="indentedList">
+
+
 There are a range of projects being currently undertaken in various institutions on issues related to Middle Kingdom history, archaeology and culture.
 
 
