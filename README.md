@@ -1,6 +1,6 @@
 # Github Jekyll repository for benihassan.com
 <div style="width:20%">
-<a href="https://www.browserstack.com/"><img src="https://www.benihassan.com/assets/images/Browserstack-Logo-01.svg" style="width:200px;"/></a>
+<a href="https://www.browserstack.com/"><img src="https://www.benihassan.com/assets/images/browserstack.png" style="width:200px;"/></a>
 </div>
 Using <a href="https://www.browserstack.com/">Browserstack</a> to debug egpytological font and rendering problems since 2018.
 
