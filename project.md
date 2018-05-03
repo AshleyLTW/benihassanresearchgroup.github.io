@@ -42,7 +42,7 @@ Procession of Asiatics, The Tomb of Khnumhotep II (Tomb 3) at Beni Hassan.
 
 ## The Beni Hassan @ Macquarie project aims to:
 
-# 1. provide a comprehensive and accurate published record of a rare and endangered archaeological site.
+### 1. provide a comprehensive and accurate published record of a rare and endangered archaeological site.
 
 With permission of the [Ministry of State of Antiquities](http://www.antiquities.gov.eg/DefaultAr/Pages/default.aspx) and under the auspices of the [Australian Centre for Egyptology (ACE)](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/ancient-cultures-research-centre/our-projects/the-australian-centre-for-egyptology/history-and-formation), the team will undertake a detailed record of the architectural features, inscriptions and imagery contained in each inscribed tomb at Beni Hassan.
 
@@ -71,7 +71,7 @@ The tombs of Khnumhotep II (Tomb 3), Amenemhat (Tomb 2), Ipi and Bebi have been 
 * Lashien, M., *Beni Hassan. Vol. II: Two Old Kingdom Tombs*, (ACE Reports 39; Oxford: Aris and Phillips, 2016).
 * Newberry, P.E., *Beni Hasan. Part I* (London, 1893).
 
-# 2. develop a Visual Dictionary for the elite tombs at Beni Hassan.
+### 2. develop a Visual Dictionary for the elite tombs at Beni Hassan.
 
 Drawing on the published and unpublished photographs, line art and architectural plans collected by the Macquarie University expedition working at Beni Hassan (2009-present), the [Beni Hassan Visual Dictionary](/gallery/) contains accessible descriptions of the various themes, scenes, details and architectural features in a tomb, along with [JSesh](https://jsesh.qenherkhopeshef.org/) transcriptions, transliteration, and translation of the hieroglyphic inscriptions and high resolution zoomable photographs and line art.
 

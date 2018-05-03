@@ -37,7 +37,7 @@ The below provides an overview of the fundamental studies associated with the va
 
     <li><span class='italic'>Excavations at Beni Hasan in Upper Egypt, 1902-3-4: catalogue of exhibition, inaugurated by H. R. H. Princess Henry of Battenberg, held by permission of the council in the rooms of the Society of Antiquaries, July 7th to 23rd 1904 </span> (Liverpool, 1904).</li>
     <li>Cooke, J. "Beni Hasan." <span class='italic'>The Expository Times</span>, 5 [3] (1893), 117-119.</li>
-    <li>Review: "The Tombs at Beni Hasan." <span class='italic'>Nature</span> 49 (1893), 169-170</li>.
+    <li>Review: "The Tombs at Beni Hasan." <span class='italic'>Nature</span> 49 (1893), 169-170</li>
     <li>Borchardt, L., and Erman, A.,  <span class='italic'>Beiträge zu Griffith Beni Hasan III</span> (Berlin, 1897).<li>
     <li>Garstang, J., "67. Excavations at Beni-Hasan in Upper Egypt (Second Season)." <span class='italic'>Man</span> 4 (1904), 97-99.</li>
     <li>Garstang, J., "54. Excavations at Beni-Hasan, 1902-3." <span class='italic'>Man</span> 3 (1903), 97-98.</li>
