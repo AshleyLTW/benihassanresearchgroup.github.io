@@ -2,7 +2,7 @@
 layout: post
 title: "Beni Hassan: Site Overview"
 cover: "assets/images/Kanawati-Woods-BH-Fig-03-Beni-Hassan-Khnumhotep-II-Tomb-3-escarpment-view.JPG"
-caption: "View from the Upper Cemetery, looking north"
+caption: "View from the Upper Cemetery, looking north."
 permalink: /site/
 ---
 
@@ -34,7 +34,7 @@ At present, the following Old and Middle Kingdom cemeteries can be identified at
 
 <p>The upper cemetery of Beni Hassan is unique, for unlike other sites, the scenes and inscriptions painted on the walls of 12 of the 39 tombs are almost completely intact, retaining their original vibrant colours and intricate details. The images are remarkably comprehensive, featuring many traditional scenes of daily life, historical inscriptions, but also new motifs that inject added energy and richness to the repertoire. Some of the more well-known tombs at the site belong to Khety (BH17), Baqet I (BH29) and Baqet III (BH15) dating to the 11th Dynasty, as well as Khnumhotep I (BH14), Khnumhotep II (BH3) and Amenemhat (BH2) dating to the early-mid 12th Dynasty of the Middle Kingdom. The hieroglyphic inscriptions in the tombs indicate they were built for officials holding a range of positions within the ancient Egyptian administration from 'great overlord of the Oryx-nome', 'overseer of the eastern desert', 'hereditary prince', 'count', 'overseer of the great army of the Oryx-nome' in addition to 'overseer of priests' of various regional deities. </p>
 
-<p>Four out of the 39 tombs are accessible to the public. See a [list of the inscribed tombs at Beni Hassan here.](/site/upperCemetery).</p>
+<p>Four out of the 39 tombs are accessible to the public. See a [list of the inscribed tombs at Beni Hassan here.](/site/upperCemetery)</p>
 </dd>
 
 <dt>The necropolis of Nuweirat</dt><dd>This cemetery is located to the north of the upper cemetery of Beni Hassan and contains small rock-cut tombs with square-shaped cult chambers, one or two short shafts and short burial chambers for contracted burials.
@@ -48,9 +48,9 @@ At present, the following Old and Middle Kingdom cemeteries can be identified at
 </dl>
 
 For further reading see:
-
+<ul>
 </li>M. Bommas,"First Intermediate Period tombs at Beni Hassan: Problems and Priorities (including BH no.
 420 and the unpublished box coffin fragment BH3Liv)", <span class='italic'>Studien zur Altägyptischen Kultur</span>, 41 (2012), 43-65.</li>
 <li>Porter, B. and R.L.B. Moss. Beni Hasan and Speos Artemidos. In <span class='italic'>Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings: IV. Lower and Middle Egypt</span> (Oxford, 1968),141-165. [Available online here](http://griffith.ox.ac.uk/topbib/pdf/pm4.pdf).</li>
-
+</ul>
 </main>
