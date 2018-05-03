@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beni Hassan: Site Overview"
-cover: "assets/images/Kanawati-Woods-BH-Fig-03-Beni-Hassan-Khnumhotep-II-Tomb-3-escarpment-view.JPG"
+cover: "assets/images/Kanawati-Woods-BH-Fig04-Beni-Hassan-Khnumhotep-II-View-of-upper-terrace-looking-south.JPG"
 caption: "View from the Upper Cemetery, looking north."
 permalink: /site/
 ---
@@ -49,8 +49,8 @@ At present, the following Old and Middle Kingdom cemeteries can be identified at
 
 For further reading see:
 <ul>
-</li>M. Bommas,"First Intermediate Period tombs at Beni Hassan: Problems and Priorities (including BH no.
+<li>Bommas, M., "First Intermediate Period tombs at Beni Hassan: Problems and Priorities (including BH no.
 420 and the unpublished box coffin fragment BH3Liv)", <span class='italic'>Studien zur Altägyptischen Kultur</span>, 41 (2012), 43-65.</li>
-<li>Porter, B. and R.L.B. Moss. Beni Hasan and Speos Artemidos. In <span class='italic'>Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings: IV. Lower and Middle Egypt</span> (Oxford, 1968),141-165. [Available online here](http://griffith.ox.ac.uk/topbib/pdf/pm4.pdf).</li>
+<li>Porter, B. and Moss, R.L.B., "Beni Hasan and Speos Artemidos". In: <span class='italic'>Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings. IV. Lower and Middle Egypt</span> (Oxford, 1968),141-165. <a href="http://griffith.ox.ac.uk/topbib/pdf/pm4.pdf">Access the volume here.</a></li>
 </ul>
 </main>
