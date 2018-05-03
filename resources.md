@@ -216,22 +216,22 @@ The below provides an overview of the fundamental studies associated with the va
 <h2>Related Projects</h2>
 <div class="indentedList">
 There are a range of projects being currently undertaken in various institutions on issues related to Middle Kingdom history, archaeology and culture.
-<ul >     
 
 
 
-<li><a href="https://www.benihassan.org/">The Beni Hassan in Late Antiquity Project</a> (2009-present), based at the University of De Paul, aims to systematically document the architectural and epigraphic evidence for late antique monasticism (ca. 500 CE) at Beni Hassan. Evidence derives from the monks' adaptive reuse of Pharaonic tomb, temple, and quarry spaces in the project's concession area, bounded on the north by the Beni Hassan necropolis and on the south by the wadi known as the Batn al-Baqara to understand regional patterns of monastic settlement in Byzantine Egypt.
-</li>
-<li><a href="http://drupal.arts.kuleuven.be/barsha">The Dayr al-Barsha Project</a> (2002-present) is an international and interdisciplinary research endeavour directed by the Egyptology department at Leuven University, Belgium.
-</li>
-<li><a href="http://meketre.org/">Meketre Scene Repository</a> (2009-present), is an interdisciplinary research project, conducted at the <a href="http://www.univie.ac.at/egyptology/">Institute of Egyptology</a> in cooperation with the research group <a href="http://cs.univie.ac.at/misat">Multimedia Information Systems</a> at the <a href="http://univie.ac.at/">University of Vienna.</a> The project aims to systematically collect, research, and study the two- dimensional art (relief and paintings) of the Middle Kingdom (11th to 13th Dynasty) to map and elaborate the development of the scenes and their content in comparison to the Old Kingdom (3rd to 6th Dynasty).
-</li>
-<li><a href="http://thebanproject.com/en/home-2/">The Middle Kingdom Theban Project</a> (2014-present), based at the University of Alcalá, focusses on the archaeological excavation, conservation and epigraphic work in the tombs of Henenu (TT 313) and Ipi (TT 315), both located in the area of Deir el-Bahari in Luxor.
-</li>
-<li><a href="http://egyptartefacts.griffith.ox.ac.uk/project">Artefacts of Excavation</a> is a 3-year, AHRC-funded collaborative project, which aims to create an online resource for the relocation and re-contextualization of distributed artefacts from excavation. The project will explore the role of these distributions in the development of archaeology and museology. <a href="http://egyptartefacts.griffith.ox.ac.uk/node/1068">Click here to visit the material collated for Beni Hassan.</a>
-</li>
-<li><a href="http://www.griffith.ox.ac.uk/archive/">The Griffith Institute Archive</a> is a highly respected and internationally recognised resource for Egyptologists, as well as scholars across a wide range of disciplines including archaeology, architecture and the history of art and science. There are more than 160 substantial groups of material, from complete excavation records to watercolours, photographs and correspondence. <a href="http://archive.griffith.ox.ac.uk/index.php/">Click here to visit the Griffith Institute Online Catalogue</a> and search for: Beni Hasan and/or individual tomb entries (Tomb Nos 2, 13, 14, 15, 17, 30, 35).
-</li>
-</ul>
+<dl>
+<dt><a href="https://www.benihassan.org/">The Beni Hassan in Late Antiquity Project</a></dt>
+<dd>(2009-present), based at the University of De Paul, aims to systematically document the architectural and epigraphic evidence for late antique monasticism (ca. 500 CE) at Beni Hassan. Evidence derives from the monks' adaptive reuse of Pharaonic tomb, temple, and quarry spaces in the project's concession area, bounded on the north by the Beni Hassan necropolis and on the south by the wadi known as the Batn al-Baqara to understand regional patterns of monastic settlement in Byzantine Egypt.</dd>
+<dt><a href="http://drupal.arts.kuleuven.be/barsha">The Dayr al-Barsha Project</a></dt>
+<dd>(2002-present) is an international and interdisciplinary research endeavour directed by the Egyptology department at Leuven University, Belgium.</dd>
+<dt><a href="http://meketre.org/">Meketre Scene Repository</a></dt>
+<dd>(2009-present), is an interdisciplinary research project, conducted at the <a href="http://www.univie.ac.at/egyptology/">Institute of Egyptology</a> in cooperation with the research group <a href="http://cs.univie.ac.at/misat">Multimedia Information Systems</a> at the <a href="http://univie.ac.at/">University of Vienna.</a> The project aims to systematically collect, research, and study the two- dimensional art (relief and paintings) of the Middle Kingdom (11th to 13th Dynasty) to map and elaborate the development of the scenes and their content in comparison to the Old Kingdom (3rd to 6th Dynasty).</dd>
+<dt><a href="http://thebanproject.com/en/home-2/">The Middle Kingdom Theban Project</a></dt>
+<dd>(2014-present), based at the University of Alcalá, focusses on the archaeological excavation, conservation and epigraphic work in the tombs of Henenu (TT 313) and Ipi (TT 315), both located in the area of Deir el-Bahari in Luxor.</dd>
+<dt><a href="http://egyptartefacts.griffith.ox.ac.uk/project">Artefacts of Excavation</a></dt>
+<dd>is a 3-year, AHRC-funded collaborative project, which aims to create an online resource for the relocation and re-contextualization of distributed artefacts from excavation. The project will explore the role of these distributions in the development of archaeology and museology. <a href="http://egyptartefacts.griffith.ox.ac.uk/node/1068">Click here to visit the material collated for Beni Hassan.</a></dd>
+<dt><a href="http://www.griffith.ox.ac.uk/archive/">The Griffith Institute Archive</a></dt>
+<dd>is a highly respected and internationally recognised resource for Egyptologists, as well as scholars across a wide range of disciplines including archaeology, architecture and the history of art and science. There are more than 160 substantial groups of material, from complete excavation records to watercolours, photographs and correspondence. <a href="http://archive.griffith.ox.ac.uk/index.php/">Click here to visit the Griffith Institute Online Catalogue</a> and search for: Beni Hasan and/or individual tomb entries (Tomb Nos 2, 13, 14, 15, 17, 30, 35).</dd>
+</dl>
 </div>
 </section>
