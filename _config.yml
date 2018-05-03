@@ -41,7 +41,7 @@ username: BeniHassanResearchGroup #github username
 repo: BeniHassanResearchGroup.github.io #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
-destination: /var/www/html #destination directory
+destination: _site #destination directory
 production_url:  http://benihassan.com/
 source_url:  https://github.com/BeniHassanResearchGroup/BeniHassanResearchGroup.github.io #source repository url
 
