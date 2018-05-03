@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Team
-cover: "assets/images/Kanawati-Evans-BH1-Pl-33a-Beni-Hassan-3-Khnumhotep-II-Chapel-Scene-North-wall-Left-Upper-section-Wall1920x.jpg"
+cover: "/assets/images/Kanawati-Evans-BH1-Pl-33a-Beni-Hassan-3-Khnumhotep-II-Chapel-Scene-North-wall-Left-Upper-section-Wall1920x.jpg"
 caption: "Hunting in the desert scene, the tomb of Khnumhotep II (Tomb 3) at Beni Hassan."
 
 permalink: /team/
