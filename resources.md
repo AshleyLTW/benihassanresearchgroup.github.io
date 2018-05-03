@@ -3,6 +3,7 @@ layout: post
 title: Resources
 permalink: /resources/
 cover: /assets/images/Kanawati-Evans-BH1-Pl-19b-Beni-Hassan-3-Khnumhotep-II-Chapel-Scene-West-wall-Right-Lower-section-Wall1920x.jpg
+caption: "Picking fruit, The tomb of Khnumhotep II (Tomb 3) at Beni Hassan."
 ---
 
 
@@ -24,7 +25,7 @@ The below provides an overview of the fundamental studies associated with the va
 		<li>Kamrin, J., "Beni Hassan." <span class='italic'>The Encyclopedia of Ancient History</span> (2012). <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781444338386.wbeah15062/abstract">Access here.</a></li>
 		<li>Porter, B. and R.L.B. Moss. "Beni Hasan and Speos Artemidos." In: <span class='italic'>Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings: IV. Lower and Middle Egypt</span> (Oxford, 1968),141-165. <a href="http://griffith.ox.ac.uk/topbib/pdf/pm4.pdf">Access the volume here.</a></li>
 		<li>Spanel, D.B., "Beni Hasan." In: Redford, D.B., (ed.), <span class='italic'>The Oxford Encyclopedia of Ancient Egypt</span> (Oxford, 2001), 175-177.</li>
-    <li>Spanel, D.B., "Beni Hasan." In: <span class='italic'>Grove Art Online.</span> <a href="http://www.oxfordartonline.com/groveart/view/10.1093/gao/9781884446054.001.0001/oao-9781884446054-e-7000007884">Access here.</a></li>.
+    <li>Spanel, D.B., "Beni Hasan." In: <span class='italic'>Grove Art Online.</span> <a href="http://www.oxfordartonline.com/groveart/view/10.1093/gao/9781884446054.001.0001/oao-9781884446054-e-7000007884">Access here.</a></li>
 
       </ul>
     </div>

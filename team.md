@@ -2,7 +2,7 @@
 layout: post
 title: Project Team
 cover: "assets/images/Kanawati-Evans-BH1-Pl-33a-Beni-Hassan-3-Khnumhotep-II-Chapel-Scene-North-wall-Left-Upper-section-Wall1920x.jpg"
-caption: "Hunting in the desert scene, tomb of Khnumhotep II, Tomb 3."
+caption: "Hunting in the desert scene, the tomb of Khnumhotep II (Tomb 3) at Beni Hassan."
 
 permalink: /team/
 
@@ -18,14 +18,14 @@ The Beni Hassan @ Macquarie Project team, based at Macquarie University, Sydney,
     <h2>Beni Hassan Research Group</h2>
     <div class="indentedList">
 
-		
+
 
 <p class="mt2">The research group, comprised of academic staff, doctoral candidates and undergraduate students, aims to develop employability skills in Ancient History students and enable active, authentic and collaborative engagement with research undertaken at Macquarie University.</p>
 
 <p>The Beni Hassan Research Group (BHRG) meets regularly to work on aspects of the project and is comprised of the following members:</p>
 
 
-      
+
 <h3>Co-ordinators:</h3>
 <ul>
 <li> <a href="/team/AlexandraWoods">Alexandra Woods | Academic Lead</a> </li>
@@ -56,9 +56,9 @@ The Beni Hassan @ Macquarie Project team, based at Macquarie University, Sydney,
 
 <p>The Chief and Partner Investigators are:</p>
       <ul>
-       
 
- 
+
+
 
 <li> <a href="/team/NaguibKanawati">Naguib Kanawati | Macquarie University</a> </li>
 <li> <a href="/team/LindaEvans">Linda Evans | Macquarie University</a> </li>
@@ -68,7 +68,3 @@ The Beni Hassan @ Macquarie Project team, based at Macquarie University, Sydney,
       </ul>
     </div>
   </section>
-
-
-
-
