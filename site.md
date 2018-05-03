@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Beni Hassan: Site Overview"
-cover: "assets/images/Kanawati-Woods-BH-Fig04-Beni-Hassan-Khnumhotep-II-View-of-upper-terrace-looking-south.JPG"
-caption: "View from the Upper Cemetery, looking north."
+cover: "assets/images/Kanawati-Woods-BH-Fig04-Beni-Hassan-Khnumhotep-II-View-of-upper-terrace-looking-south1920x.JPG"
+caption: "View of the Upper Cemetery, looking south."
 permalink: /site/
 ---
 
