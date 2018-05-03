@@ -3,7 +3,7 @@ layout: post
 title: Resources
 permalink: /resources/
 cover: /assets/images/Kanawati-Evans-BH1-Pl-19b-Beni-Hassan-3-Khnumhotep-II-Chapel-Scene-West-wall-Right-Lower-section-Wall1920x.jpg
-caption: "Picking fruit, The tomb of Khnumhotep II (Tomb 3) at Beni Hassan."
+caption: "Picking fruit, the tomb of Khnumhotep II (Tomb 3) at Beni Hassan."
 ---
 
 
@@ -91,7 +91,7 @@ The below provides an overview of the fundamental studies associated with the va
 </li>
 <li>Beckernath, J. von., "Zur Begründung der 12. Dynastie durch Ammenemes I." <span class='italic'>Zeitschrift für ägyptische Sprache und Altertumskunde</span> 92 (1965), 4-10.
 </li>
-<li>Berman, L. (1985). <span class='italic'>Amenemhat I</span>, PhD Dissertation, Yale University. 
+<li>Berman, L. (1985). <span class='italic'>Amenemhat I</span>, PhD Dissertation, Yale University.
 </li>
 <li>Bucking, S., "The Beni Hassan in Late Antiquity Project: Report on the 2014 Season." <span class='italic'>Journal of Eastern Mediterranean Archaeology and Heritage Studies</span> 5 &#91;2&#92; (2017), 148-177.
 </li>

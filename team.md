@@ -2,7 +2,7 @@
 layout: post
 title: Project Team
 cover: "/assets/images/Kanawati-Evans-BH1-Pl-33a-Beni-Hassan-3-Khnumhotep-II-Chapel-Scene-North-wall-Left-Upper-section-Wall1920x.jpg"
-caption: "Hunting in the desert scene, the tomb of Khnumhotep II (Tomb 3) at Beni Hassan."
+caption: "Hunting in the desert, the tomb of Khnumhotep II (Tomb 3) at Beni Hassan."
 
 permalink: /team/
 
@@ -10,7 +10,7 @@ permalink: /team/
 
 
 
-The Beni Hassan @ Macquarie Project team, based at Macquarie University, Sydney, and the Metropolitan Museum of Art, New York, is comprised of a student centred research group and academic staff.
+The Beni Hassan @ Macquarie Project team is based at Macquarie University, Sydney, and the Metropolitan Museum of Art, New York, and is comprised of a student centred research group and academic staff.
 
 
 <amp-accordion>
