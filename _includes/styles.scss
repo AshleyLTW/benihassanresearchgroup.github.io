@@ -1,6 +1,7 @@
 @import 'bourbon/bourbon';
 @import 'syntax-highlighting';
 @import 'roboto';
+@import 'fonts';
 
 $grey-color:       #373A36;
 $theme-color: #A6192E;
@@ -713,7 +714,7 @@ main{max-width:700px;margin:0 auto}p{padding:0;margin:0}.ampstart-accent{color:$
       hyphens: auto;
       text-align: justify;
     }
-body{background:#fff;color:#4a4a4a;font-family:Roboto,'Noto Sans',Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Arial,sans-serif;min-width:315px;overflow-x:hidden;font-smooth:always;-webkit-font-smoothing:antialiased}
+body{background:#fff;color:#4a4a4a;font-family:'noto_sans',Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Arial,sans-serif;min-width:315px;overflow-x:hidden;font-smooth:always;-webkit-font-smoothing:antialiased}
 
   amp-img {
       margin-bottom: 2rem;
