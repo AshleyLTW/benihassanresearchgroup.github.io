@@ -1,2 +1,3 @@
 bundle exec rake site:deploy --quiet
-bundle exec htmlproofer ./_site
+bundle exec htmlproofer ./_site \
+  -- url-ignore "{{site.baseurl}}"
