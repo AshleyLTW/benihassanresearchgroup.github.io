@@ -1,0 +1,2 @@
+bundle exec rake site:deploy --quiet
+bundle exec htmlproofer ./_site
