@@ -6,3 +6,4 @@ gem "github-pages", "~> 168"
 gem "rake", "~> 12.3.0"
 gem 'jekyll-paginate'
 gem "html-proofer"
+gem "capybara"
