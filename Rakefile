@@ -16,7 +16,7 @@ CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"]
 REPO = CONFIG["repo"]
 SOURCE_BRANCH = CONFIG["branch"]
-DESTINATION_BRANCH = "gh-pages"
+# DESTINATION_BRANCH = "gh-pages"
 
 # NEW for browser stack
 Cucumber::Rake::Task.new(:single) do |task|
