@@ -17,7 +17,7 @@ CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"]
 REPO = CONFIG["repo"]
 SOURCE_BRANCH = CONFIG["branch"]
-DESTINATION_BRANCH = CONFIG["destination"]
+DESTINATION_BRANCH = CONFIG["branch"]
 
 # NEW for browser stack
 Cucumber::Rake::Task.new(:single) do |task|
