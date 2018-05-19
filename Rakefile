@@ -3,6 +3,7 @@
 # Modified version of jekyllrb Rakefile
 # https://github.com/jekyll/jekyll/blob/master/Rakefile
 #
+# Note that line 19 has been commented out, not sure what it's original purpose is
 #############################################################################
 
 require 'rake'
@@ -16,7 +17,7 @@ CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"]
 REPO = CONFIG["repo"]
 SOURCE_BRANCH = CONFIG["branch"]
-# DESTINATION_BRANCH = "gh-pages"
+DESTINATION_BRANCH = CONFIG["destination"]
 
 # NEW for browser stack
 Cucumber::Rake::Task.new(:single) do |task|
