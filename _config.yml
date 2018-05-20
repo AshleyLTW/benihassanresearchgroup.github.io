@@ -37,7 +37,7 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: BeniHassanResearchGroup #github username
+username: AshleyLTW #github username
 repo: BeniHassanResearchGroup.github.io #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
